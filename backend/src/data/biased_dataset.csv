@@ -1,0 +1,2001 @@
+gender,age,education_level,experience_years,screening_score,shortlisted,bias_flag
+Male,35,Masters,1,72.47313,0,0
+Female,32,Bachelors,15,44.756844,0,1
+Male,36,Masters,19,60.156004,0,0
+Male,44,Bachelors,6,75.846397,0,0
+Male,39,High School,1,43.29754,1,0
+Female,28,Bachelors,0,74.320833,0,1
+Male,41,Masters,18,78.344927,0,0
+Male,37,Bachelors,3,51.614669,0,0
+Male,43,Masters,1,93.984986,0,0
+Female,25,Masters,13,84.349075,0,1
+Male,42,Bachelors,1,68.195083,0,0
+Male,36,PhD,14,60.735109,0,0
+Male,26,High School,11,86.863036,0,0
+Male,28,Bachelors,4,66.562099,0,0
+Female,45,High School,19,60.018444,0,1
+Male,38,Masters,6,82.172897,0,0
+Female,45,Bachelors,9,59.528774,0,1
+Female,32,High School,13,58.65349,0,1
+Female,35,Bachelors,13,48.927549,0,1
+Male,47,Bachelors,4,63.694569,1,0
+Female,46,High School,17,54.195245,1,1
+Male,29,Masters,13,57.614368,0,0
+Female,33,Masters,1,46.913952,1,1
+Female,46,Bachelors,11,58.087578,0,1
+Female,35,PhD,5,43.379452,1,1
+Female,30,Bachelors,3,47.388911,0,1
+Female,36,PhD,12,76.451284,0,1
+Female,27,Bachelors,3,57.271279,1,1
+Female,37,Bachelors,13,56.201816,1,1
+Female,43,High School,15,57.400115,0,1
+Male,46,Masters,3,66.658476,0,0
+Male,41,Bachelors,0,75.748689,0,0
+Female,42,High School,12,65.223208,1,1
+Female,46,High School,3,54.943877,0,1
+Female,27,Bachelors,19,57.269956,0,1
+Male,34,Bachelors,17,83.127731,0,0
+Female,35,Masters,5,45.149578,0,1
+Male,41,Masters,2,69.42418,0,0
+Male,27,High School,12,71.352465,0,0
+Male,29,Masters,15,62.233171,0,0
+Male,39,High School,4,68.848634,1,0
+Male,36,Masters,3,60.883235,0,0
+Female,28,Masters,7,64.700573,0,1
+Female,38,Bachelors,18,47.78097,0,1
+Female,47,Masters,13,70.870469,0,1
+Female,43,Bachelors,6,59.068777,0,1
+Female,49,Bachelors,13,54.783242,1,1
+Male,38,Masters,5,59.953029,0,0
+Female,40,Bachelors,11,67.595522,1,1
+Female,27,Bachelors,15,54.283336,0,1
+Male,23,Bachelors,16,58.327514,0,0
+Female,38,Masters,12,69.429227,1,1
+Male,47,Bachelors,13,60.956942,1,0
+Female,30,High School,6,57.500689,0,1
+Male,27,Masters,13,78.188038,0,0
+Female,37,Masters,14,63.300874,0,1
+Female,34,High School,11,75.663246,1,1
+Male,44,Bachelors,16,61.650496,0,0
+Male,23,High School,8,67.894887,0,0
+Male,32,Bachelors,14,68.668219,0,0
+Male,48,Bachelors,11,76.21235,1,0
+Male,33,Masters,1,82.886231,1,0
+Male,22,Bachelors,4,70.736165,1,0
+Male,23,Bachelors,12,68.623362,0,0
+Male,25,Bachelors,19,55.170081,1,0
+Female,31,Masters,7,62.100667,1,1
+Female,28,Bachelors,13,55.10669,1,1
+Male,46,PhD,14,76.184363,0,0
+Female,43,Bachelors,10,52.209845,0,1
+Female,43,High School,0,53.799827,1,1
+Female,32,Bachelors,2,42.546936,0,1
+Female,27,Bachelors,16,42.057797,0,1
+Male,35,Bachelors,18,88.60987,1,0
+Female,44,High School,13,62.710806,0,1
+Male,37,High School,7,74.043355,1,0
+Female,24,Masters,12,48.771652,0,1
+Female,49,Bachelors,19,68.114321,0,1
+Female,42,Masters,2,68.21917,0,1
+Male,45,Bachelors,4,61.975728,0,0
+Female,33,Bachelors,8,48.433884,0,1
+Male,38,Bachelors,5,62.674723,0,0
+Female,21,Bachelors,1,61.510842,0,1
+Male,36,Bachelors,12,71.67107,0,0
+Female,33,Bachelors,4,56.928018,1,1
+Male,30,High School,7,82.987301,1,0
+Male,32,Bachelors,0,62.850431,1,0
+Female,22,Bachelors,19,49.5807,0,1
+Male,43,Masters,11,70.00099,1,0
+Female,23,Masters,10,41.094018,0,1
+Female,30,Masters,6,67.087109,0,1
+Female,22,Masters,14,59.859225,0,1
+Female,47,Bachelors,10,55.339358,1,1
+Female,43,Bachelors,15,56.955345,1,1
+Female,33,Masters,2,65.28245,0,1
+Female,33,Bachelors,19,66.130682,0,1
+Female,38,Bachelors,13,53.899288,0,1
+Female,23,High School,2,62.548724,0,1
+Female,47,Bachelors,0,67.046305,0,1
+Female,27,Bachelors,14,59.824017,0,1
+Male,34,Masters,0,67.94535,0,0
+Male,40,Bachelors,16,73.811677,0,0
+Female,49,Bachelors,1,51.078179,0,1
+Female,37,PhD,19,61.535159,0,1
+Female,49,High School,5,59.397374,1,1
+Female,41,Bachelors,7,56.149362,1,1
+Female,32,High School,15,42.402726,0,1
+Female,45,Masters,18,50.095928,0,1
+Female,36,Masters,0,52.168627,0,1
+Female,44,Bachelors,2,68.809872,0,1
+Male,32,Masters,2,72.858235,0,0
+Female,35,Bachelors,4,69.711135,0,1
+Male,45,Masters,11,82.429134,0,0
+Female,30,Masters,11,62.036915,0,1
+Female,45,Masters,19,62.557389,0,1
+Male,27,High School,12,60.27006,0,0
+Female,40,PhD,19,77.053531,0,1
+Male,25,Masters,8,55.821559,1,0
+Female,21,Bachelors,6,62.740037,0,1
+Female,37,Masters,3,64.406668,0,1
+Male,23,Bachelors,18,78.467376,0,0
+Female,33,Masters,18,45.81564,0,1
+Male,34,High School,5,65.80097,0,0
+Female,44,Masters,12,52.818158,0,1
+Male,38,Bachelors,10,50.195658,0,0
+Male,24,High School,12,71.303267,1,0
+Female,38,Bachelors,12,54.790713,0,1
+Female,25,High School,19,72.162054,0,1
+Male,45,Bachelors,14,76.151744,0,0
+Female,36,Bachelors,12,58.172875,1,1
+Female,21,Bachelors,10,52.898962,1,1
+Female,41,Bachelors,18,58.523539,0,1
+Male,34,Bachelors,7,67.441262,1,0
+Male,35,Masters,19,70.695391,1,0
+Male,29,High School,7,89.016358,0,0
+Male,35,Masters,9,59.352438,1,0
+Male,37,Masters,15,68.313581,0,0
+Male,45,Bachelors,18,77.063884,0,0
+Male,44,Bachelors,10,65.998592,1,0
+Male,24,Masters,12,85.805418,1,0
+Male,32,High School,8,76.784592,0,0
+Female,47,High School,19,54.366828,0,1
+Male,46,Bachelors,18,72.040687,1,0
+Female,25,Masters,15,52.803118,0,1
+Female,49,High School,6,53.338202,0,1
+Female,25,Bachelors,18,55.4194,1,1
+Male,31,PhD,11,82.637612,1,0
+Male,48,Masters,14,77.45445,0,0
+Male,26,Bachelors,13,69.774224,0,0
+Male,27,High School,10,77.811862,0,0
+Female,44,Masters,9,60.946398,1,1
+Male,34,Bachelors,10,58.30107,1,0
+Male,44,High School,5,68.548624,0,0
+Male,31,High School,1,69.268404,0,0
+Male,33,Masters,10,77.616903,0,0
+Male,22,Bachelors,18,64.335295,0,0
+Female,45,Masters,5,50.887966,0,1
+Male,27,Masters,13,69.54453,0,0
+Female,40,Bachelors,19,55.164405,0,1
+Male,24,Bachelors,5,66.764908,0,0
+Female,47,Bachelors,16,59.32531,0,1
+Male,28,Bachelors,9,66.169558,0,0
+Male,40,Bachelors,0,79.631827,1,0
+Female,49,Masters,2,74.191851,0,1
+Female,42,Bachelors,7,66.25147,1,1
+Female,41,Masters,7,40.462684,1,1
+Male,39,Bachelors,19,63.580263,0,0
+Female,33,Bachelors,14,54.890202,0,1
+Male,34,Bachelors,6,51.537267,1,0
+Male,30,Bachelors,10,61.241083,1,0
+Female,31,Masters,6,57.252411,0,1
+Female,22,Bachelors,3,56.792694,1,1
+Male,45,Bachelors,11,70.086502,0,0
+Male,46,High School,5,56.191716,0,0
+Female,29,Bachelors,13,53.117708,0,1
+Female,37,Bachelors,11,58.954387,0,1
+Female,46,Bachelors,10,58.734352,0,1
+Male,23,PhD,18,74.468936,1,0
+Male,44,Bachelors,4,73.885744,0,0
+Male,26,Masters,13,65.92893,0,0
+Male,25,Bachelors,15,71.201189,1,0
+Male,25,Bachelors,12,62.000069,1,0
+Male,42,High School,19,67.297717,0,0
+Female,35,Bachelors,3,46.818022,0,1
+Male,43,Bachelors,10,80.654244,1,0
+Male,37,Bachelors,16,67.265057,0,0
+Male,29,High School,6,80.639434,0,0
+Female,23,High School,13,62.152187,0,1
+Male,40,Bachelors,10,61.143377,0,0
+Male,46,PhD,8,72.511066,0,0
+Female,37,Bachelors,12,66.960786,1,1
+Male,49,Bachelors,17,69.224192,1,0
+Male,47,High School,10,70.740294,1,0
+Male,30,Bachelors,14,64.485427,1,0
+Male,23,Bachelors,18,70.241032,1,0
+Male,38,Bachelors,0,72.378982,0,0
+Female,38,Bachelors,3,53.646596,0,1
+Female,37,High School,13,51.054526,1,1
+Female,44,High School,13,74.232356,0,1
+Male,23,Bachelors,2,76.041205,0,0
+Male,23,High School,16,64.523419,1,0
+Male,26,High School,2,72.196573,1,0
+Female,33,Bachelors,15,47.025638,0,1
+Male,44,Masters,13,50.22929,1,0
+Male,49,Bachelors,19,80.841331,0,0
+Female,35,Bachelors,12,60.477049,0,1
+Male,45,Bachelors,14,69.522975,0,0
+Female,29,Masters,13,62.440436,1,1
+Female,24,Bachelors,18,88.948576,0,1
+Female,34,High School,5,65.245554,1,1
+Male,25,Bachelors,9,59.545597,0,0
+Male,22,High School,14,53.196236,0,0
+Male,31,Bachelors,19,80.545358,0,0
+Male,29,Bachelors,5,78.560959,0,0
+Male,44,Masters,9,75.750608,0,0
+Male,23,Bachelors,6,61.87121,0,0
+Male,47,Masters,16,73.632854,1,0
+Female,48,PhD,17,53.270795,0,1
+Male,49,High School,16,76.627819,0,0
+Female,29,Bachelors,8,69.364272,0,1
+Male,23,Bachelors,9,64.565272,0,0
+Male,45,Bachelors,9,81.318102,0,0
+Male,22,Bachelors,6,71.148524,0,0
+Female,32,Masters,15,62.385425,0,1
+Female,30,Masters,17,47.530877,0,1
+Female,29,Bachelors,5,63.860266,0,1
+Female,35,Bachelors,19,53.505647,0,1
+Male,28,Masters,0,74.746335,0,0
+Female,45,PhD,0,75.704299,0,1
+Male,25,Masters,11,72.895202,1,0
+Male,31,High School,1,60.991451,1,0
+Female,47,Bachelors,3,62.686475,1,1
+Female,22,High School,16,61.169165,0,1
+Female,44,Bachelors,3,78.785595,1,1
+Female,48,High School,10,59.310916,0,1
+Female,35,Bachelors,3,51.323218,0,1
+Female,26,Bachelors,0,68.586992,1,1
+Female,28,High School,6,55.367865,0,1
+Female,47,Bachelors,17,59.566456,1,1
+Male,25,Bachelors,8,60.71524,1,0
+Female,36,Bachelors,2,55.931011,0,1
+Female,46,High School,7,56.931499,0,1
+Male,38,Bachelors,18,68.716513,1,0
+Female,26,Masters,3,54.183106,1,1
+Male,25,High School,17,72.882291,0,0
+Male,48,High School,19,60.765276,0,0
+Female,36,Bachelors,10,49.749742,1,1
+Male,33,Masters,13,77.095362,1,0
+Male,48,Bachelors,17,76.177502,0,0
+Male,25,Bachelors,15,56.923955,0,0
+Male,33,Bachelors,2,51.70445,0,0
+Female,37,Bachelors,14,50.544969,0,1
+Male,38,High School,3,68.71701,1,0
+Female,28,Bachelors,4,70.980849,1,1
+Male,33,Masters,16,68.472554,1,0
+Male,49,Bachelors,6,62.30639,0,0
+Male,39,Masters,15,71.485862,1,0
+Male,46,Masters,13,68.859839,0,0
+Female,23,High School,15,43.281838,0,1
+Female,44,Masters,6,43.084988,0,1
+Male,28,High School,8,56.518025,0,0
+Male,22,Bachelors,3,94.798515,0,0
+Female,28,High School,10,70.558102,0,1
+Male,47,High School,1,64.062839,0,0
+Male,33,Bachelors,11,81.082668,0,0
+Male,33,Bachelors,11,64.319437,1,0
+Female,21,Bachelors,3,69.68732,0,1
+Female,26,Bachelors,17,60.298599,1,1
+Female,44,High School,6,54.078841,0,1
+Male,39,High School,0,76.798203,1,0
+Male,36,Bachelors,12,71.375196,1,0
+Female,28,Bachelors,5,65.263486,1,1
+Female,48,Masters,5,62.129379,0,1
+Female,21,Bachelors,11,58.39269,0,1
+Female,47,Masters,7,68.066321,0,1
+Male,47,Bachelors,18,95.838068,0,0
+Female,36,Bachelors,4,71.375175,0,1
+Male,29,Bachelors,17,72.196452,0,0
+Female,33,Bachelors,4,54.675817,1,1
+Male,31,Bachelors,9,67.992651,0,0
+Female,33,Masters,0,47.256929,0,1
+Female,45,Bachelors,9,62.814743,1,1
+Female,41,Masters,4,46.076089,1,1
+Female,30,Masters,11,56.764763,0,1
+Male,24,Masters,6,76.703487,1,0
+Female,47,Masters,8,56.643256,0,1
+Male,26,Bachelors,11,65.07712,0,0
+Male,48,Bachelors,0,58.025193,1,0
+Male,27,Bachelors,10,82.053267,1,0
+Male,25,Bachelors,14,61.667781,1,0
+Female,31,Bachelors,1,54.335972,0,1
+Male,33,Masters,19,52.082706,1,0
+Male,46,Bachelors,6,69.80139,0,0
+Male,45,Bachelors,11,66.667051,0,0
+Female,39,High School,17,62.109536,0,1
+Female,43,Bachelors,2,50.032362,0,1
+Female,30,High School,6,65.684422,0,1
+Female,30,Masters,10,40.59182,0,1
+Male,31,Bachelors,17,69.078225,0,0
+Male,41,High School,11,71.154883,0,0
+Female,27,High School,5,62.268868,0,1
+Male,38,Bachelors,4,71.577549,1,0
+Male,24,Bachelors,0,77.886717,0,0
+Male,22,Bachelors,11,83.246987,0,0
+Female,34,High School,10,58.772042,0,1
+Female,33,Bachelors,3,46.871978,0,1
+Male,49,Bachelors,17,75.607173,0,0
+Female,32,Bachelors,3,57.760235,1,1
+Female,27,Bachelors,16,73.776828,1,1
+Female,22,Bachelors,1,53.043617,0,1
+Female,33,Bachelors,1,47.505988,0,1
+Female,34,PhD,11,61.985606,0,1
+Male,47,Bachelors,5,52.595822,0,0
+Female,37,Bachelors,9,53.2929,0,1
+Male,29,High School,15,66.701594,0,0
+Male,37,Bachelors,13,72.204723,0,0
+Female,28,High School,6,47.467561,0,1
+Male,22,Bachelors,18,61.204995,1,0
+Male,48,PhD,16,81.569137,1,0
+Male,44,Bachelors,8,69.865385,1,0
+Female,33,High School,12,69.220547,0,1
+Female,23,High School,4,52.212828,0,1
+Male,36,Bachelors,4,69.45549,0,0
+Female,26,High School,9,61.938645,0,1
+Female,39,High School,9,75.681714,1,1
+Female,27,Masters,6,56.02264,0,1
+Female,30,Bachelors,14,57.122663,0,1
+Male,29,Bachelors,6,80.98153,0,0
+Male,22,Masters,14,66.201886,1,0
+Female,48,High School,2,64.304553,0,1
+Female,48,PhD,18,67.097777,0,1
+Male,35,Bachelors,9,64.241581,0,0
+Male,25,Masters,14,73.404624,0,0
+Female,49,Bachelors,2,77.530827,1,1
+Male,42,Masters,5,79.21318,0,0
+Female,24,PhD,11,63.73022,0,1
+Female,40,Bachelors,14,59.512136,0,1
+Male,24,PhD,5,63.956817,0,0
+Male,38,Bachelors,12,60.118141,1,0
+Female,24,Bachelors,18,73.550882,0,1
+Female,47,Bachelors,2,71.089324,1,1
+Male,37,Bachelors,7,63.428855,1,0
+Female,32,High School,7,65.277343,1,1
+Male,42,Bachelors,19,71.113265,0,0
+Female,37,Bachelors,14,70.771596,0,1
+Male,30,Masters,3,73.828012,0,0
+Male,42,Masters,18,69.771812,0,0
+Male,21,Bachelors,2,64.583144,0,0
+Female,42,Bachelors,12,64.049704,0,1
+Female,46,Bachelors,7,54.647138,0,1
+Male,44,High School,15,72.206849,0,0
+Female,47,High School,12,60.194091,0,1
+Male,38,Bachelors,2,66.275081,0,0
+Male,38,Bachelors,15,60.272592,1,0
+Female,34,PhD,8,62.996326,0,1
+Female,35,Bachelors,13,60.105291,0,1
+Male,49,Bachelors,12,87.874209,1,0
+Female,32,Bachelors,6,46.056172,0,1
+Female,24,High School,14,67.427856,0,1
+Male,47,Bachelors,6,69.173535,0,0
+Male,23,Bachelors,5,90.997584,0,0
+Female,40,Bachelors,1,65.443321,0,1
+Male,49,Bachelors,8,73.246886,0,0
+Male,32,PhD,16,69.198976,1,0
+Female,27,Masters,4,54.287948,0,1
+Male,49,Bachelors,11,73.113928,1,0
+Male,31,Bachelors,0,56.176974,1,0
+Female,21,Bachelors,9,43.088997,0,1
+Female,26,Bachelors,10,66.860348,0,1
+Male,35,Bachelors,15,52.378759,0,0
+Male,35,High School,13,66.804264,1,0
+Female,39,Bachelors,7,49.961085,0,1
+Female,31,Bachelors,16,54.015389,0,1
+Female,46,Bachelors,17,58.94212,0,1
+Female,43,PhD,11,68.514348,1,1
+Male,46,Masters,16,82.176336,0,0
+Female,22,Masters,13,49.632564,0,1
+Female,34,Bachelors,15,55.889267,0,1
+Male,22,Masters,13,100.0,0,0
+Female,49,High School,8,58.941237,0,1
+Male,24,Masters,3,61.177892,1,0
+Female,37,High School,10,49.458698,0,1
+Female,23,Masters,5,54.156092,0,1
+Female,33,Bachelors,14,54.274018,0,1
+Male,29,Masters,4,67.656299,1,0
+Male,27,Masters,10,69.785734,0,0
+Female,35,High School,17,59.681743,0,1
+Male,43,Bachelors,12,60.445135,0,0
+Male,49,PhD,10,73.69331,0,0
+Male,49,Bachelors,13,71.210469,0,0
+Male,31,Masters,17,74.965817,0,0
+Male,40,Bachelors,18,52.855459,0,0
+Male,22,Bachelors,14,71.568442,1,0
+Female,35,Bachelors,8,40.048779,0,1
+Female,34,Bachelors,7,55.888557,1,1
+Male,40,Masters,19,76.579363,1,0
+Female,42,Bachelors,0,67.07513,0,1
+Female,31,Bachelors,3,60.022082,1,1
+Female,47,Bachelors,13,64.074654,0,1
+Female,23,Bachelors,1,55.157761,1,1
+Male,37,Masters,15,64.908322,0,0
+Female,32,PhD,2,88.422742,1,1
+Female,44,Bachelors,7,69.301831,1,1
+Male,48,Masters,5,58.270161,1,0
+Male,49,Masters,15,52.653361,1,0
+Female,41,Bachelors,15,51.95798,0,1
+Female,35,PhD,6,70.280111,0,1
+Female,36,Bachelors,12,62.432209,0,1
+Female,25,High School,12,39.150973,0,1
+Female,47,Masters,4,56.246055,0,1
+Female,40,Bachelors,19,61.945615,0,1
+Male,26,Masters,17,45.843326,0,0
+Female,39,Masters,14,61.276813,0,1
+Female,45,High School,17,48.573917,1,1
+Male,25,Masters,1,51.644536,0,0
+Male,23,Bachelors,9,86.045076,1,0
+Male,47,Bachelors,12,59.423978,0,0
+Male,21,Bachelors,17,63.327153,1,0
+Female,46,Masters,14,51.0428,0,1
+Female,48,High School,11,58.11062,0,1
+Female,26,Bachelors,14,78.31749,0,1
+Female,35,Bachelors,12,45.765056,0,1
+Female,22,Masters,17,57.50847,0,1
+Female,49,Bachelors,14,61.256221,0,1
+Male,23,High School,10,61.312083,0,0
+Female,37,Bachelors,18,54.292188,1,1
+Male,45,Bachelors,2,75.944998,0,0
+Male,44,Masters,6,62.44295,0,0
+Female,32,Bachelors,13,54.715778,1,1
+Male,38,Bachelors,13,65.686461,1,0
+Female,35,PhD,12,55.866593,1,1
+Male,32,High School,11,72.431517,0,0
+Female,36,PhD,8,63.91993,0,1
+Male,47,Bachelors,0,89.375543,0,0
+Female,28,Masters,18,32.005384,0,1
+Female,48,Bachelors,10,59.764038,0,1
+Female,34,High School,18,46.149344,0,1
+Female,45,Masters,17,56.555086,1,1
+Female,37,Masters,11,69.344735,0,1
+Male,49,Masters,0,81.977925,1,0
+Male,41,High School,18,82.447146,0,0
+Male,28,Masters,19,82.352925,1,0
+Female,35,Masters,16,54.422586,1,1
+Male,47,Bachelors,4,83.985303,1,0
+Female,34,Masters,2,75.609912,0,1
+Female,38,Masters,1,58.035725,0,1
+Male,40,Bachelors,2,81.772366,1,0
+Male,27,High School,7,70.41237,0,0
+Female,23,Bachelors,15,72.315493,0,1
+Male,49,High School,5,68.383368,0,0
+Female,32,Bachelors,12,51.135927,0,1
+Female,41,Bachelors,15,47.784263,0,1
+Female,44,High School,15,56.802286,0,1
+Female,48,Bachelors,2,59.888776,0,1
+Female,46,High School,12,51.370015,0,1
+Male,23,Masters,13,67.498915,0,0
+Male,40,Masters,7,64.734507,0,0
+Female,34,High School,11,46.895532,0,1
+Female,35,PhD,7,70.674212,1,1
+Male,45,Bachelors,8,82.119036,1,0
+Male,34,Bachelors,0,80.314327,1,0
+Female,27,High School,5,61.012546,1,1
+Male,37,Bachelors,18,69.776172,0,0
+Female,32,Masters,10,47.495433,1,1
+Male,40,Masters,10,74.146329,0,0
+Female,24,High School,12,62.633653,0,1
+Male,29,High School,10,98.439474,0,0
+Female,26,Bachelors,17,67.228272,1,1
+Male,36,Bachelors,14,73.152449,0,0
+Male,45,Bachelors,0,69.583907,0,0
+Female,48,Bachelors,6,66.289494,1,1
+Male,42,Masters,12,60.842613,0,0
+Female,42,Masters,11,67.907192,0,1
+Male,41,Bachelors,17,59.128565,0,0
+Female,41,Masters,18,54.163809,0,1
+Male,22,Bachelors,14,51.618205,0,0
+Female,44,Bachelors,7,68.048023,0,1
+Male,28,Bachelors,18,72.49929,0,0
+Female,31,Bachelors,9,50.815258,0,1
+Male,33,PhD,6,60.708612,0,0
+Female,37,Bachelors,17,73.218117,0,1
+Female,28,Bachelors,15,54.864032,0,1
+Female,41,Bachelors,19,48.545326,0,1
+Male,38,High School,5,89.21933,1,0
+Female,38,Masters,8,50.311314,0,1
+Male,34,Bachelors,12,81.386171,1,0
+Female,35,Bachelors,7,48.723401,1,1
+Male,26,Bachelors,15,66.450538,0,0
+Female,31,Bachelors,12,64.712326,1,1
+Male,33,High School,12,69.421631,0,0
+Male,45,Bachelors,16,72.43763,1,0
+Female,21,Bachelors,19,51.504832,0,1
+Male,48,Masters,4,54.022038,1,0
+Male,26,Masters,16,84.655764,1,0
+Female,29,Masters,8,55.320184,0,1
+Male,28,Bachelors,1,72.890125,0,0
+Male,31,Bachelors,17,77.019575,0,0
+Male,42,High School,8,73.087582,1,0
+Female,39,Masters,5,53.897131,1,1
+Male,44,Bachelors,10,81.59765,1,0
+Female,29,Bachelors,5,63.795984,0,1
+Male,37,Bachelors,5,71.987737,1,0
+Male,32,High School,12,71.755848,1,0
+Male,45,Bachelors,10,86.822623,1,0
+Female,34,High School,13,49.082449,0,1
+Male,35,Masters,1,74.152558,1,0
+Male,36,Bachelors,7,64.713705,0,0
+Female,42,High School,2,38.460763,1,1
+Male,42,Bachelors,2,50.372655,0,0
+Female,48,High School,0,48.433269,0,1
+Female,40,Bachelors,18,54.832509,0,1
+Male,21,Masters,17,91.729497,0,0
+Female,30,High School,16,65.293841,0,1
+Male,28,Masters,19,77.88343,0,0
+Female,38,High School,12,49.688892,0,1
+Female,48,Bachelors,2,61.772768,0,1
+Male,21,Masters,0,93.06153,0,0
+Female,22,Bachelors,3,46.745845,0,1
+Female,21,High School,12,61.29815,0,1
+Female,21,Bachelors,16,73.668346,0,1
+Female,29,Bachelors,10,67.477336,0,1
+Female,33,Masters,1,75.800492,0,1
+Male,21,Bachelors,15,72.128653,1,0
+Female,33,Masters,1,65.877583,0,1
+Male,40,Masters,18,71.097744,1,0
+Female,46,Bachelors,18,65.571905,1,1
+Male,42,Masters,15,60.847936,0,0
+Male,27,Bachelors,18,77.923484,1,0
+Female,22,PhD,8,60.086316,1,1
+Female,26,High School,0,57.765913,0,1
+Female,27,Bachelors,9,74.261482,0,1
+Male,46,Bachelors,18,67.346146,1,0
+Female,34,Bachelors,0,68.598777,0,1
+Male,46,Bachelors,1,83.072786,0,0
+Male,38,Masters,15,78.555444,0,0
+Male,35,High School,11,60.349003,0,0
+Female,22,High School,7,62.522729,0,1
+Female,30,Masters,17,78.575645,0,1
+Male,43,Bachelors,1,51.814465,1,0
+Male,32,PhD,12,68.123415,0,0
+Female,37,Masters,5,68.833314,0,1
+Male,28,PhD,5,68.846794,0,0
+Female,31,Masters,8,66.199095,0,1
+Male,49,Bachelors,15,84.09191,0,0
+Female,23,High School,10,60.108262,0,1
+Male,47,Masters,6,75.089905,0,0
+Female,26,Bachelors,9,58.143953,0,1
+Male,29,High School,9,72.978059,0,0
+Female,26,Bachelors,19,77.685992,1,1
+Female,29,PhD,17,59.332544,0,1
+Male,27,Bachelors,19,66.46846,0,0
+Male,29,Bachelors,8,80.417542,0,0
+Female,38,Bachelors,14,51.317279,0,1
+Male,32,Bachelors,3,63.852785,1,0
+Female,28,Bachelors,7,55.352655,0,1
+Male,28,Bachelors,8,67.441255,0,0
+Female,38,High School,12,56.408325,0,1
+Female,48,Masters,8,68.775342,1,1
+Female,40,Bachelors,3,55.782796,0,1
+Female,35,Masters,16,66.138767,0,1
+Female,47,Masters,15,68.92256,0,1
+Female,27,Bachelors,14,51.919888,0,1
+Male,31,Bachelors,2,78.42706,0,0
+Male,40,Bachelors,19,79.334185,0,0
+Male,36,Masters,4,52.390636,0,0
+Female,24,Bachelors,4,64.751808,0,1
+Female,26,Bachelors,19,56.71183,0,1
+Female,46,Bachelors,14,70.095046,0,1
+Female,42,Bachelors,17,54.672794,0,1
+Male,46,High School,14,56.605168,1,0
+Male,23,Bachelors,1,69.701832,0,0
+Female,29,Masters,12,52.267914,1,1
+Male,48,Bachelors,3,78.495853,0,0
+Male,30,Bachelors,9,61.913875,0,0
+Female,34,Bachelors,12,58.691476,0,1
+Male,31,Masters,9,85.458104,0,0
+Female,38,High School,8,68.365325,0,1
+Male,42,Masters,7,74.778392,0,0
+Female,32,Bachelors,2,59.429297,0,1
+Female,43,Bachelors,15,62.091622,0,1
+Female,32,High School,13,68.377755,0,1
+Female,33,High School,8,51.823886,0,1
+Male,45,Bachelors,10,78.513372,0,0
+Female,33,Bachelors,2,47.794932,0,1
+Female,39,Masters,4,64.480709,0,1
+Female,46,High School,9,47.106517,0,1
+Male,39,Bachelors,12,89.627962,0,0
+Female,43,Bachelors,3,65.276868,0,1
+Male,34,High School,12,54.439747,1,0
+Female,24,High School,11,56.135621,0,1
+Male,33,Bachelors,4,64.78578,0,0
+Male,28,Bachelors,9,63.602731,0,0
+Female,49,Bachelors,8,60.373233,1,1
+Male,43,Bachelors,19,60.720063,0,0
+Female,41,Bachelors,6,67.676919,0,1
+Female,43,High School,1,64.275424,0,1
+Female,39,Bachelors,6,63.889254,0,1
+Male,32,PhD,7,69.804955,0,0
+Male,38,Bachelors,6,76.598183,0,0
+Female,26,Bachelors,13,67.280027,1,1
+Female,38,Bachelors,18,66.078439,0,1
+Male,39,Masters,4,56.88126,1,0
+Female,42,Masters,17,53.964034,1,1
+Female,25,Bachelors,19,53.5435,0,1
+Female,44,PhD,11,42.22621,0,1
+Male,29,High School,16,72.240031,0,0
+Male,47,High School,12,84.110052,0,0
+Male,23,Masters,1,82.516904,1,0
+Female,48,Masters,12,65.220416,0,1
+Female,30,High School,6,66.823402,0,1
+Female,39,Bachelors,9,83.113189,1,1
+Male,23,High School,5,78.438638,0,0
+Female,49,Bachelors,2,70.317735,1,1
+Female,49,Masters,2,46.109396,1,1
+Female,42,Bachelors,17,72.032828,0,1
+Female,35,Bachelors,10,61.697398,0,1
+Male,21,Bachelors,19,69.202157,1,0
+Male,27,High School,4,66.723619,1,0
+Female,32,Bachelors,18,52.552861,0,1
+Male,37,Bachelors,18,82.567769,0,0
+Male,41,PhD,14,69.716411,0,0
+Female,46,Masters,15,55.203611,0,1
+Female,49,High School,8,48.55534,0,1
+Male,44,Masters,3,71.705988,0,0
+Female,40,Masters,14,53.976521,0,1
+Male,25,Masters,11,64.122444,0,0
+Female,24,Bachelors,2,44.852316,0,1
+Male,48,Bachelors,13,79.593574,1,0
+Female,32,Bachelors,16,56.949443,0,1
+Male,40,High School,18,59.147613,0,0
+Male,48,Bachelors,5,67.287639,0,0
+Male,44,Bachelors,3,75.491321,0,0
+Female,38,Bachelors,6,59.770808,1,1
+Male,37,Masters,18,71.909937,0,0
+Male,39,Bachelors,16,70.425483,1,0
+Female,29,High School,15,47.745056,0,1
+Female,24,PhD,14,69.349249,1,1
+Male,46,Masters,7,52.917538,0,0
+Male,41,Masters,18,74.615366,0,0
+Female,22,PhD,7,63.608633,0,1
+Female,24,Bachelors,17,59.715202,1,1
+Female,22,PhD,15,64.837789,1,1
+Female,35,High School,19,58.952629,1,1
+Female,22,Bachelors,18,65.410579,0,1
+Male,24,Bachelors,9,79.929225,1,0
+Female,26,High School,16,48.945972,0,1
+Male,27,High School,12,76.739649,0,0
+Male,30,Bachelors,12,86.92398,1,0
+Male,39,Masters,6,72.645653,1,0
+Female,39,Bachelors,9,52.747011,0,1
+Male,46,High School,1,92.632328,0,0
+Male,42,Masters,3,70.887062,0,0
+Female,49,Bachelors,5,61.470256,1,1
+Male,32,Bachelors,17,72.523742,0,0
+Male,23,Bachelors,5,74.478633,0,0
+Female,33,Bachelors,16,58.024246,1,1
+Male,38,Bachelors,13,71.899909,1,0
+Male,28,Masters,10,79.521837,0,0
+Male,41,Bachelors,18,66.26599,1,0
+Female,35,Bachelors,1,54.850365,0,1
+Female,21,Masters,2,56.238325,0,1
+Female,23,Masters,10,49.983061,0,1
+Male,46,High School,5,63.171605,0,0
+Male,28,High School,13,62.764201,0,0
+Female,24,High School,18,59.391665,0,1
+Male,36,Bachelors,15,78.361457,0,0
+Male,43,Bachelors,6,84.537141,0,0
+Female,30,High School,7,60.180858,0,1
+Female,32,PhD,18,62.869597,0,1
+Male,34,Bachelors,19,72.433938,0,0
+Male,34,Bachelors,15,49.06561,0,0
+Male,22,Bachelors,6,58.521091,1,0
+Female,43,Bachelors,8,65.802081,0,1
+Female,25,High School,12,70.313028,0,1
+Female,25,Bachelors,0,68.108405,0,1
+Female,26,Masters,7,56.466721,0,1
+Male,33,Bachelors,3,50.051655,1,0
+Female,29,Bachelors,2,48.695933,0,1
+Female,42,Bachelors,2,48.105982,0,1
+Female,48,High School,12,64.335524,0,1
+Female,49,High School,7,57.448682,0,1
+Female,35,Bachelors,6,78.480593,0,1
+Male,34,Bachelors,0,84.676383,0,0
+Male,44,High School,15,86.736984,0,0
+Female,27,Masters,5,48.980354,0,1
+Male,45,PhD,6,74.908912,1,0
+Female,40,Masters,11,57.065691,0,1
+Female,22,Masters,8,61.764065,0,1
+Male,27,Bachelors,10,61.943863,0,0
+Male,26,PhD,9,82.261564,0,0
+Female,37,High School,0,48.489303,0,1
+Female,47,PhD,17,39.074765,1,1
+Female,45,PhD,3,80.008789,0,1
+Male,45,Masters,4,74.424967,1,0
+Female,48,PhD,8,47.449003,0,1
+Female,22,Bachelors,16,57.627772,1,1
+Female,23,Bachelors,2,52.957728,1,1
+Male,25,Bachelors,15,70.057414,1,0
+Female,25,Bachelors,4,64.37902,0,1
+Female,21,High School,15,66.141175,1,1
+Male,28,Bachelors,2,72.53729,1,0
+Female,32,PhD,19,56.285388,0,1
+Female,44,High School,14,67.354604,0,1
+Male,24,Masters,2,50.745418,1,0
+Female,33,Masters,19,53.335926,0,1
+Male,43,Masters,13,60.213372,0,0
+Male,35,PhD,15,80.062578,1,0
+Female,31,Bachelors,16,54.192906,0,1
+Female,30,PhD,19,48.535778,0,1
+Female,23,Masters,17,67.383945,0,1
+Female,42,High School,17,52.345866,0,1
+Male,34,Bachelors,13,66.492735,0,0
+Female,36,Masters,17,81.713398,0,1
+Male,30,Bachelors,14,77.871386,0,0
+Female,49,Bachelors,14,59.462462,0,1
+Female,30,Bachelors,5,58.874865,0,1
+Female,32,High School,14,66.005624,0,1
+Male,29,Bachelors,17,76.628704,0,0
+Female,21,Masters,3,62.616363,0,1
+Female,25,Bachelors,7,58.148789,0,1
+Female,40,High School,14,45.510387,0,1
+Female,28,High School,2,44.390906,0,1
+Male,31,Bachelors,14,68.231777,1,0
+Female,32,Masters,12,51.486725,0,1
+Male,21,Bachelors,8,75.86079,0,0
+Male,45,Bachelors,1,71.971797,1,0
+Male,42,Bachelors,7,62.272256,1,0
+Male,40,Bachelors,19,71.631985,0,0
+Male,48,Masters,16,65.817672,0,0
+Male,45,Masters,12,90.666014,0,0
+Female,31,High School,0,62.088766,0,1
+Male,25,Bachelors,1,54.39393,1,0
+Male,35,High School,14,88.205151,1,0
+Male,25,Bachelors,11,63.66851,1,0
+Female,32,Bachelors,13,46.987798,0,1
+Female,25,High School,1,79.02644,0,1
+Male,37,Bachelors,17,73.458367,0,0
+Female,37,Bachelors,6,64.186774,0,1
+Male,44,Masters,5,77.330601,1,0
+Male,32,PhD,13,67.940103,0,0
+Female,44,High School,7,54.58374,1,1
+Male,48,Masters,1,65.907425,1,0
+Female,35,Bachelors,16,77.024026,1,1
+Female,35,Bachelors,4,59.534187,1,1
+Male,26,Masters,13,83.12915,1,0
+Male,32,Masters,19,69.235549,0,0
+Female,47,PhD,2,49.605156,0,1
+Male,49,Bachelors,4,55.577835,0,0
+Male,40,Bachelors,15,76.480032,0,0
+Male,38,Masters,17,86.940981,1,0
+Female,34,Bachelors,16,47.197239,1,1
+Female,22,Bachelors,10,64.65802,0,1
+Male,29,Bachelors,16,56.243843,0,0
+Female,25,Bachelors,15,54.210925,0,1
+Female,40,Bachelors,1,60.02089,1,1
+Female,46,High School,3,42.672238,0,1
+Female,49,Masters,6,56.235224,0,1
+Female,21,High School,1,48.482519,0,1
+Male,43,Bachelors,5,76.047592,0,0
+Male,23,Bachelors,16,68.345994,1,0
+Male,26,High School,6,79.39439,1,0
+Female,25,High School,4,56.630053,0,1
+Female,41,High School,4,43.870978,0,1
+Male,47,Masters,19,55.130399,0,0
+Female,25,Bachelors,15,38.382648,1,1
+Male,21,PhD,18,76.329578,1,0
+Male,37,Bachelors,8,95.577309,1,0
+Male,39,Bachelors,4,74.352381,0,0
+Female,34,Bachelors,7,78.101726,0,1
+Female,32,Bachelors,8,67.920415,1,1
+Male,30,Masters,4,64.81664,1,0
+Male,40,Bachelors,9,82.65316,0,0
+Male,41,Bachelors,1,65.214253,1,0
+Male,38,Masters,8,65.412921,0,0
+Female,44,Masters,10,56.882563,1,1
+Female,47,Masters,3,55.429275,0,1
+Male,31,Bachelors,1,76.613695,0,0
+Male,22,Masters,5,63.291133,0,0
+Female,45,Bachelors,13,68.97073,0,1
+Female,38,Bachelors,0,65.374301,0,1
+Male,49,Bachelors,17,73.429635,0,0
+Male,45,Bachelors,6,89.396119,1,0
+Male,27,High School,0,82.873926,1,0
+Female,44,Bachelors,0,70.362083,0,1
+Female,35,Masters,0,62.596508,0,1
+Female,31,Bachelors,3,60.08537,0,1
+Male,38,High School,3,75.238074,0,0
+Male,43,High School,17,70.132414,0,0
+Female,32,Masters,10,57.696585,0,1
+Female,26,Bachelors,0,36.026991,0,1
+Male,40,Bachelors,9,77.177654,0,0
+Female,43,Masters,8,66.7141,0,1
+Female,33,Masters,3,44.685169,1,1
+Male,40,Bachelors,5,76.051686,0,0
+Female,36,Bachelors,15,52.644106,1,1
+Male,38,Masters,1,66.334708,1,0
+Male,30,Bachelors,17,83.107605,0,0
+Male,48,High School,9,60.093656,0,0
+Male,43,Masters,16,60.078522,1,0
+Male,28,Bachelors,12,88.048344,1,0
+Male,38,Bachelors,17,68.544433,0,0
+Male,41,Bachelors,12,82.465456,0,0
+Female,21,High School,16,42.221948,0,1
+Male,43,High School,4,54.813967,1,0
+Male,28,Masters,10,60.870555,0,0
+Female,49,High School,6,54.494719,1,1
+Female,26,Bachelors,9,46.207869,0,1
+Female,25,Bachelors,16,63.720977,0,1
+Male,35,High School,14,74.345942,0,0
+Female,42,PhD,17,48.98346,0,1
+Male,35,Bachelors,18,61.814013,0,0
+Male,22,Bachelors,1,63.132186,0,0
+Male,21,Bachelors,3,58.351142,0,0
+Male,43,Bachelors,2,41.044423,0,0
+Female,43,High School,6,56.63535,0,1
+Female,46,Masters,17,52.946149,0,1
+Male,31,PhD,9,66.718542,1,0
+Male,30,Bachelors,6,59.881965,1,0
+Male,38,Bachelors,7,78.104975,1,0
+Female,38,Masters,5,81.516207,0,1
+Male,37,Masters,0,61.659151,0,0
+Male,46,Bachelors,3,83.996961,0,0
+Female,28,Bachelors,13,65.119262,0,1
+Female,35,Bachelors,16,59.387677,1,1
+Male,28,Masters,19,66.558773,0,0
+Female,37,Masters,17,60.822479,0,1
+Female,32,High School,10,70.198734,0,1
+Male,47,Bachelors,13,58.61919,1,0
+Female,28,Masters,8,56.60075,1,1
+Male,45,Masters,14,82.490002,0,0
+Female,34,PhD,11,66.510922,0,1
+Male,24,Masters,9,58.774141,1,0
+Male,21,Bachelors,18,68.174081,1,0
+Male,21,Bachelors,18,77.280078,0,0
+Female,39,Bachelors,5,66.528791,0,1
+Male,36,High School,19,79.751345,1,0
+Female,34,Bachelors,5,65.140457,1,1
+Male,41,Masters,7,75.519531,0,0
+Male,36,High School,0,73.427964,0,0
+Female,25,Masters,16,76.939381,0,1
+Male,29,Bachelors,16,65.781888,1,0
+Male,46,PhD,14,70.481912,1,0
+Female,48,High School,6,47.281248,0,1
+Male,22,Bachelors,18,57.879782,0,0
+Male,38,Bachelors,2,73.249567,1,0
+Male,26,Bachelors,10,62.758137,0,0
+Male,29,Masters,19,69.423144,1,0
+Female,21,Masters,18,74.468185,0,1
+Female,29,High School,8,76.992641,0,1
+Male,45,Bachelors,9,92.240448,0,0
+Female,36,Bachelors,1,77.871884,0,1
+Male,33,Bachelors,0,94.030182,0,0
+Female,29,Masters,15,62.159482,1,1
+Male,41,Masters,17,60.969794,1,0
+Male,33,Bachelors,16,59.996074,1,0
+Male,29,Masters,5,83.963306,0,0
+Male,31,Bachelors,13,70.516265,0,0
+Male,24,Masters,14,71.261315,1,0
+Male,22,Bachelors,13,64.509289,1,0
+Female,49,Masters,2,57.271683,1,1
+Male,26,Masters,18,73.837593,1,0
+Female,34,Bachelors,11,46.516605,0,1
+Male,24,Masters,1,72.571385,0,0
+Female,26,High School,2,72.873349,1,1
+Female,39,Bachelors,17,40.175549,0,1
+Female,26,Bachelors,0,46.077855,1,1
+Male,22,PhD,19,76.7561,1,0
+Male,38,Masters,5,83.639679,0,0
+Female,33,Masters,4,51.181235,0,1
+Male,29,Masters,0,50.017594,0,0
+Female,43,Bachelors,18,74.073617,0,1
+Male,39,Masters,0,61.889348,1,0
+Female,33,Bachelors,15,56.163684,1,1
+Female,31,Bachelors,11,60.313651,0,1
+Male,21,High School,7,63.335666,0,0
+Female,44,Masters,15,47.555211,1,1
+Male,42,Masters,0,61.421998,1,0
+Female,27,Bachelors,3,74.663279,0,1
+Female,45,High School,9,69.075867,1,1
+Male,41,Masters,10,75.745173,0,0
+Male,35,High School,16,48.135668,0,0
+Male,21,Masters,6,75.781919,0,0
+Female,32,PhD,11,64.984445,0,1
+Male,46,Bachelors,6,57.218669,0,0
+Female,27,Bachelors,11,64.086097,0,1
+Female,35,Masters,14,67.852043,0,1
+Male,41,Masters,1,75.693659,0,0
+Male,39,Bachelors,13,63.198306,0,0
+Female,48,PhD,12,58.782221,0,1
+Female,49,High School,3,66.758237,1,1
+Male,45,Bachelors,13,70.59452,1,0
+Male,21,Masters,13,82.542849,0,0
+Male,37,Masters,15,73.956816,0,0
+Male,37,High School,6,77.529227,1,0
+Male,23,Masters,18,78.214006,0,0
+Female,32,Bachelors,1,45.895047,0,1
+Female,26,Bachelors,9,61.832675,0,1
+Female,46,High School,17,55.720705,0,1
+Female,31,Masters,16,72.370338,0,1
+Male,23,High School,4,74.63233,0,0
+Male,28,Bachelors,11,68.117875,0,0
+Male,34,Bachelors,5,57.181486,1,0
+Female,34,Masters,8,43.218953,1,1
+Female,30,Bachelors,19,64.765607,0,1
+Male,22,Masters,0,62.827873,1,0
+Male,34,Bachelors,14,76.661265,0,0
+Female,29,Bachelors,5,44.85569,1,1
+Female,23,Bachelors,18,77.224355,0,1
+Male,41,Masters,17,76.638641,0,0
+Male,46,Masters,5,70.991851,0,0
+Female,28,High School,12,74.935328,0,1
+Male,36,Bachelors,0,79.484179,1,0
+Male,22,High School,12,65.249968,0,0
+Male,26,Bachelors,6,70.775763,0,0
+Female,48,Bachelors,14,37.880988,1,1
+Female,41,Bachelors,11,69.141691,0,1
+Female,49,Bachelors,0,53.267448,1,1
+Female,46,Bachelors,14,39.978528,0,1
+Female,45,Bachelors,3,48.467342,0,1
+Female,32,Masters,12,65.497526,0,1
+Female,25,Bachelors,4,76.796452,0,1
+Male,22,High School,1,70.204255,0,0
+Male,36,Masters,0,60.179487,0,0
+Male,25,Bachelors,15,55.792503,1,0
+Male,35,Bachelors,5,84.146146,0,0
+Male,32,Bachelors,15,74.494678,0,0
+Male,24,Bachelors,13,66.698604,0,0
+Male,35,High School,2,64.317282,1,0
+Female,31,Bachelors,14,62.938961,0,1
+Female,36,Masters,2,68.370258,0,1
+Male,43,Bachelors,1,61.034156,1,0
+Male,26,Bachelors,0,58.576275,1,0
+Female,34,Bachelors,8,45.2617,0,1
+Male,38,High School,8,65.317754,0,0
+Male,32,Bachelors,6,63.102145,1,0
+Female,47,Masters,2,77.921961,0,1
+Male,31,High School,17,64.962194,0,0
+Female,33,Bachelors,10,44.156477,0,1
+Male,41,Bachelors,6,58.065026,0,0
+Female,43,Bachelors,8,56.994077,0,1
+Female,31,PhD,0,37.82097,1,1
+Female,43,High School,13,60.956013,0,1
+Male,36,Bachelors,19,56.637905,0,0
+Female,35,High School,5,70.262978,0,1
+Male,41,PhD,6,71.165623,0,0
+Male,48,High School,9,91.210236,0,0
+Male,35,Bachelors,6,67.717994,0,0
+Male,45,Masters,1,38.682562,0,0
+Female,24,Masters,3,70.760997,0,1
+Female,31,Bachelors,16,63.880645,0,1
+Male,39,Bachelors,0,76.569079,0,0
+Male,35,Bachelors,9,59.974164,1,0
+Female,24,Bachelors,18,57.795128,1,1
+Male,41,Bachelors,14,71.864609,1,0
+Female,33,Bachelors,9,55.447302,0,1
+Male,42,Bachelors,18,52.656372,0,0
+Male,39,Bachelors,11,97.68692,1,0
+Female,22,Bachelors,15,67.631046,0,1
+Male,34,PhD,8,74.20584,0,0
+Female,49,Bachelors,14,71.373508,0,1
+Male,24,High School,16,76.441922,0,0
+Male,36,High School,13,63.227971,0,0
+Male,41,PhD,17,82.497828,1,0
+Female,40,Bachelors,1,67.016274,0,1
+Male,34,High School,3,63.607142,1,0
+Male,47,Bachelors,17,77.900147,0,0
+Male,49,Bachelors,6,67.5943,0,0
+Male,35,Bachelors,12,72.084782,1,0
+Female,48,Bachelors,14,62.589557,1,1
+Female,23,High School,0,75.412299,0,1
+Male,28,PhD,10,63.54004,0,0
+Female,36,Bachelors,9,63.963843,1,1
+Male,30,Bachelors,4,90.157262,0,0
+Male,24,Masters,15,68.239525,0,0
+Male,38,Bachelors,10,71.965568,1,0
+Female,22,Bachelors,5,76.439836,0,1
+Female,37,Bachelors,8,63.033192,0,1
+Female,33,Bachelors,12,44.526257,0,1
+Female,24,Masters,7,50.324428,0,1
+Female,46,Masters,13,67.231505,0,1
+Female,45,High School,0,65.101322,0,1
+Female,31,High School,16,60.843608,1,1
+Female,27,Masters,4,81.492128,0,1
+Female,32,Masters,1,52.323192,0,1
+Male,30,Masters,8,69.255862,0,0
+Female,27,Bachelors,3,41.90249,0,1
+Female,33,Bachelors,16,67.76023,0,1
+Female,27,Masters,16,48.094213,0,1
+Female,44,Bachelors,17,68.382397,0,1
+Female,37,Bachelors,15,68.303723,0,1
+Female,30,High School,7,83.633827,1,1
+Female,49,Bachelors,10,63.609986,0,1
+Female,30,Bachelors,17,54.330747,1,1
+Female,44,Bachelors,9,65.560528,0,1
+Female,24,PhD,12,48.941908,0,1
+Female,40,Bachelors,16,60.256378,0,1
+Male,24,Masters,17,67.990975,0,0
+Male,42,High School,9,69.296616,1,0
+Female,27,Bachelors,15,47.317536,0,1
+Female,42,PhD,19,60.650144,0,1
+Male,21,High School,4,78.2423,0,0
+Female,32,High School,12,41.798541,0,1
+Male,44,Bachelors,17,63.114073,1,0
+Male,33,High School,16,71.680472,0,0
+Male,30,Masters,8,46.526834,0,0
+Male,35,Masters,13,87.402644,0,0
+Male,47,Bachelors,16,62.888892,0,0
+Female,33,Bachelors,3,50.109667,0,1
+Male,43,Bachelors,17,67.926577,0,0
+Female,42,Masters,19,57.777357,0,1
+Female,42,High School,14,49.238888,1,1
+Male,41,Bachelors,10,79.804137,0,0
+Male,42,Bachelors,11,73.997065,0,0
+Female,48,Bachelors,8,53.356269,1,1
+Male,29,Bachelors,12,64.775949,0,0
+Male,46,Masters,14,54.832303,1,0
+Female,29,High School,14,49.308389,0,1
+Female,35,High School,4,63.617203,0,1
+Male,30,Masters,18,61.731354,0,0
+Female,44,Masters,19,75.179525,0,1
+Male,46,High School,13,70.709232,1,0
+Male,45,Bachelors,16,56.471766,0,0
+Male,49,Bachelors,17,58.566527,0,0
+Female,30,Bachelors,2,66.60604,0,1
+Female,28,Bachelors,1,60.332363,0,1
+Female,44,High School,0,68.355164,0,1
+Female,36,Bachelors,9,56.049775,0,1
+Female,37,Masters,18,50.578193,0,1
+Male,46,Bachelors,16,81.194474,1,0
+Male,47,Bachelors,11,61.414226,0,0
+Male,25,High School,0,74.890541,1,0
+Male,24,PhD,11,67.882164,1,0
+Female,38,Masters,16,65.734521,0,1
+Male,44,Masters,2,88.18484,1,0
+Female,39,Masters,10,53.048251,0,1
+Male,24,Masters,16,64.528579,0,0
+Female,48,Bachelors,2,65.845925,1,1
+Female,27,Bachelors,7,48.691047,0,1
+Male,30,Bachelors,19,86.164655,0,0
+Male,45,Masters,3,84.460226,1,0
+Male,38,Masters,6,60.008804,0,0
+Male,39,Bachelors,13,54.168752,0,0
+Female,24,High School,13,48.753786,0,1
+Male,30,Bachelors,3,58.546304,1,0
+Male,21,Masters,15,78.017606,1,0
+Female,43,Bachelors,0,77.15345,0,1
+Male,38,Bachelors,16,77.901262,1,0
+Male,25,Bachelors,9,67.638078,0,0
+Male,35,Bachelors,15,73.424985,0,0
+Male,37,Masters,15,61.30222,1,0
+Male,23,Bachelors,7,80.97208,1,0
+Female,32,Masters,6,61.131955,0,1
+Male,22,Bachelors,5,77.731978,0,0
+Male,21,Bachelors,15,62.724643,1,0
+Male,43,Bachelors,19,68.314028,1,0
+Male,41,Masters,15,77.250731,1,0
+Male,37,Bachelors,6,84.435129,0,0
+Female,42,Bachelors,8,51.041596,0,1
+Male,36,Bachelors,13,77.804519,1,0
+Female,25,Masters,10,48.880976,0,1
+Female,35,High School,13,77.192117,0,1
+Male,23,Masters,6,65.851753,1,0
+Male,48,Bachelors,0,76.435052,1,0
+Male,27,Bachelors,12,71.656096,1,0
+Male,31,High School,19,96.053031,1,0
+Female,30,Bachelors,2,60.966426,0,1
+Male,29,Bachelors,19,64.84944,0,0
+Male,34,High School,3,76.395065,1,0
+Male,33,Bachelors,10,76.172409,1,0
+Male,49,Masters,1,68.425301,1,0
+Male,45,High School,13,59.052341,0,0
+Male,45,Masters,11,64.720011,0,0
+Female,22,Bachelors,16,66.201065,0,1
+Female,23,Bachelors,11,38.856916,0,1
+Male,27,Bachelors,11,67.519541,1,0
+Male,41,High School,0,79.948639,0,0
+Male,38,High School,12,69.065038,0,0
+Female,23,High School,13,78.639217,0,1
+Male,30,High School,1,52.553498,0,0
+Female,42,Bachelors,11,50.902233,0,1
+Male,49,Masters,15,46.853662,0,0
+Male,27,Masters,3,89.936906,0,0
+Male,29,Bachelors,7,60.550128,0,0
+Male,37,High School,1,50.130787,0,0
+Female,31,Bachelors,9,53.177542,0,1
+Female,27,Bachelors,8,47.296952,0,1
+Male,44,Bachelors,14,63.952151,1,0
+Male,48,Bachelors,12,70.412293,0,0
+Female,34,Bachelors,16,64.324905,0,1
+Female,39,Bachelors,15,56.616263,0,1
+Female,24,Bachelors,1,60.88105,1,1
+Female,46,Masters,19,52.153844,0,1
+Male,26,Masters,19,54.883018,1,0
+Female,30,Bachelors,13,39.825828,1,1
+Male,27,Masters,2,66.355142,0,0
+Female,33,PhD,11,60.697421,0,1
+Female,34,Bachelors,7,56.932509,1,1
+Female,24,Bachelors,1,39.877291,0,1
+Female,28,Bachelors,3,60.892155,0,1
+Female,25,Masters,13,73.659138,0,1
+Male,21,Masters,15,68.853535,0,0
+Male,24,High School,18,64.204694,1,0
+Female,23,Bachelors,1,58.274079,0,1
+Female,29,Bachelors,11,45.843113,0,1
+Male,28,Bachelors,13,58.311009,1,0
+Female,21,High School,5,63.2027,1,1
+Female,47,Masters,12,68.537587,0,1
+Male,26,Bachelors,3,68.529016,1,0
+Female,29,Masters,17,37.002428,0,1
+Female,27,Masters,11,63.112592,0,1
+Male,24,Masters,19,90.673822,1,0
+Male,33,Bachelors,18,67.561018,0,0
+Male,37,Bachelors,7,68.221542,0,0
+Female,48,High School,6,52.469573,0,1
+Male,22,Bachelors,15,74.81354,1,0
+Male,48,High School,18,63.290165,0,0
+Male,25,Bachelors,5,80.215019,0,0
+Male,32,Bachelors,19,63.424195,1,0
+Male,47,High School,10,73.417915,0,0
+Male,41,High School,4,69.536558,1,0
+Female,28,High School,15,77.37842,0,1
+Female,26,Masters,6,61.56397,0,1
+Male,28,Masters,4,83.870073,0,0
+Male,38,Bachelors,10,71.086235,0,0
+Male,23,High School,14,68.292597,1,0
+Female,42,High School,2,57.896235,1,1
+Female,32,High School,4,50.061429,0,1
+Female,49,High School,4,66.038903,0,1
+Female,46,Masters,8,54.278188,0,1
+Female,23,Bachelors,14,63.037362,0,1
+Female,42,Bachelors,2,68.448494,0,1
+Female,26,High School,5,74.295983,0,1
+Female,22,Bachelors,16,61.275137,0,1
+Female,43,Bachelors,7,67.987221,1,1
+Male,32,Bachelors,10,77.418878,0,0
+Male,22,Bachelors,5,66.176229,0,0
+Male,26,High School,7,91.078035,0,0
+Male,37,Bachelors,9,64.237578,1,0
+Female,23,Bachelors,2,57.484994,0,1
+Female,22,Bachelors,13,74.451665,0,1
+Male,43,PhD,13,84.294582,0,0
+Female,40,Bachelors,9,59.059267,0,1
+Male,28,Bachelors,11,79.904167,0,0
+Female,42,Bachelors,5,55.058359,0,1
+Male,32,Bachelors,11,65.113211,1,0
+Female,46,Bachelors,13,47.492853,1,1
+Female,24,Bachelors,1,65.506293,0,1
+Male,25,Masters,8,78.292209,1,0
+Female,33,High School,9,51.146925,0,1
+Male,49,Bachelors,16,72.681,1,0
+Male,35,Bachelors,16,96.509884,1,0
+Male,45,Masters,2,81.466823,0,0
+Male,43,Bachelors,18,60.985161,1,0
+Female,36,Bachelors,0,66.318499,0,1
+Female,30,High School,11,52.148941,0,1
+Female,45,Bachelors,6,30.0,1,1
+Male,43,High School,3,69.795879,1,0
+Female,36,Bachelors,9,74.679317,0,1
+Male,32,High School,12,83.97448,0,0
+Female,37,Bachelors,1,64.222885,0,1
+Female,36,Bachelors,9,53.827891,0,1
+Female,32,Bachelors,3,60.984301,1,1
+Male,28,Masters,17,67.308398,1,0
+Female,40,Bachelors,4,53.907735,0,1
+Female,23,Bachelors,18,70.647512,1,1
+Male,36,Bachelors,1,64.739642,1,0
+Female,33,High School,11,69.47196,1,1
+Male,43,Masters,16,64.07814,0,0
+Female,48,High School,9,81.144046,0,1
+Male,39,Bachelors,1,53.593656,0,0
+Male,28,Bachelors,5,60.432307,1,0
+Female,42,Bachelors,7,59.991143,0,1
+Male,25,Bachelors,18,50.159561,1,0
+Male,40,Bachelors,10,44.290139,0,0
+Male,28,High School,11,50.245924,1,0
+Male,44,Masters,8,67.079108,0,0
+Male,32,Bachelors,1,67.3329,0,0
+Male,21,Masters,7,73.329995,0,0
+Female,45,Masters,10,59.256707,0,1
+Male,41,Masters,3,72.995165,0,0
+Male,40,Bachelors,9,65.497836,1,0
+Female,26,Bachelors,19,68.379883,0,1
+Female,42,Masters,15,67.031684,0,1
+Female,38,Bachelors,7,57.900111,0,1
+Female,28,High School,3,63.484866,0,1
+Female,27,Masters,9,59.00226,0,1
+Female,21,Masters,11,44.702737,0,1
+Female,41,Bachelors,13,65.664236,0,1
+Male,36,High School,15,60.93184,0,0
+Male,32,Bachelors,17,78.93824,1,0
+Female,26,Masters,11,62.396498,0,1
+Male,40,Masters,17,69.154777,0,0
+Male,22,Bachelors,6,51.230066,0,0
+Male,49,High School,19,85.397456,1,0
+Female,34,Masters,6,54.363515,0,1
+Female,24,Bachelors,8,67.311717,0,1
+Male,21,Bachelors,0,68.860259,0,0
+Female,43,PhD,5,58.131913,0,1
+Male,38,High School,5,71.928078,0,0
+Male,33,Bachelors,11,70.265723,0,0
+Male,22,High School,11,67.330072,1,0
+Male,29,Bachelors,9,69.446854,0,0
+Female,41,Masters,5,66.025435,0,1
+Female,22,Bachelors,16,65.964581,0,1
+Female,47,PhD,18,60.76203,0,1
+Male,45,Bachelors,17,76.20937,1,0
+Female,29,Bachelors,5,56.697239,0,1
+Male,21,Bachelors,18,92.248864,0,0
+Female,31,Bachelors,9,76.323671,0,1
+Male,23,Bachelors,7,77.62443,1,0
+Male,40,High School,5,50.584195,0,0
+Male,43,Bachelors,6,76.060191,1,0
+Female,46,Bachelors,0,57.909814,0,1
+Female,24,Masters,17,49.44852,0,1
+Female,38,Bachelors,19,57.141037,0,1
+Female,43,Masters,11,51.136033,1,1
+Male,26,High School,15,75.068031,0,0
+Female,23,Bachelors,9,75.139437,0,1
+Female,42,Bachelors,9,66.117919,0,1
+Male,31,Bachelors,13,97.625252,0,0
+Male,35,High School,19,54.463876,1,0
+Male,42,Masters,9,64.939653,0,0
+Female,48,Masters,9,52.333875,1,1
+Male,25,Bachelors,10,82.293683,0,0
+Male,40,High School,1,67.794496,1,0
+Male,30,Masters,19,71.895162,0,0
+Female,32,Bachelors,7,63.540393,0,1
+Male,35,Masters,6,55.452111,0,0
+Female,37,Masters,7,52.019108,1,1
+Female,30,Masters,0,71.482105,1,1
+Male,26,Bachelors,1,64.519121,0,0
+Male,38,High School,17,52.86357,0,0
+Female,33,Bachelors,14,47.735899,0,1
+Male,23,Bachelors,0,67.137319,0,0
+Male,44,Masters,4,71.667605,1,0
+Female,30,High School,1,55.766632,0,1
+Female,34,High School,19,55.491354,0,1
+Male,26,Masters,2,79.393134,1,0
+Female,23,Masters,18,59.048125,0,1
+Male,36,Masters,17,72.094014,1,0
+Male,27,Masters,17,64.39044,0,0
+Male,40,Bachelors,13,85.089403,0,0
+Female,34,Bachelors,7,53.246481,0,1
+Male,29,Masters,11,70.746929,0,0
+Male,35,Bachelors,9,80.349994,1,0
+Male,41,Bachelors,19,72.800423,1,0
+Female,23,High School,16,60.061339,0,1
+Female,22,Bachelors,10,41.156319,1,1
+Female,47,Masters,1,67.550254,0,1
+Female,22,Bachelors,3,60.333037,0,1
+Female,23,Bachelors,0,64.508513,0,1
+Male,38,Bachelors,14,71.83213,0,0
+Female,34,Bachelors,12,52.698896,0,1
+Female,40,Bachelors,7,68.72959,0,1
+Female,38,Bachelors,3,61.206058,1,1
+Male,30,Masters,9,57.106135,0,0
+Female,45,Bachelors,18,70.600346,0,1
+Female,22,High School,17,47.475105,0,1
+Male,45,High School,4,79.009292,1,0
+Female,49,Bachelors,18,75.354696,1,1
+Male,42,Bachelors,15,58.937046,0,0
+Male,21,Masters,0,68.772382,0,0
+Male,24,Bachelors,11,67.840518,1,0
+Male,34,Masters,1,68.290288,0,0
+Male,21,Bachelors,7,88.302384,0,0
+Female,34,Bachelors,17,46.772714,0,1
+Male,36,Bachelors,15,66.93433,0,0
+Male,42,Masters,4,85.033225,0,0
+Female,34,Bachelors,12,53.399271,1,1
+Male,49,Bachelors,18,60.642203,0,0
+Female,40,Bachelors,2,61.560082,1,1
+Female,23,High School,7,66.863725,0,1
+Female,23,Bachelors,11,57.428558,1,1
+Male,29,Bachelors,1,75.543684,0,0
+Male,26,Bachelors,10,56.233849,0,0
+Male,45,Bachelors,11,56.789729,0,0
+Female,33,Bachelors,17,54.914663,0,1
+Male,41,Masters,12,75.900174,0,0
+Male,22,Masters,4,77.61498,1,0
+Male,28,Masters,11,58.17984,0,0
+Female,41,High School,1,66.048503,0,1
+Female,22,High School,4,62.210247,1,1
+Male,24,Bachelors,6,61.207953,0,0
+Male,45,Bachelors,11,56.658116,1,0
+Male,35,Bachelors,15,72.298232,0,0
+Male,24,High School,7,82.895632,0,0
+Female,33,Bachelors,8,60.739765,0,1
+Female,48,High School,14,50.387087,0,1
+Female,32,Masters,4,43.19935,0,1
+Female,48,Bachelors,12,75.362433,1,1
+Male,33,Bachelors,4,80.418506,0,0
+Male,34,High School,10,73.020768,0,0
+Male,40,Bachelors,9,84.77994,1,0
+Female,38,Bachelors,19,62.970503,0,1
+Male,49,Masters,12,64.68963,0,0
+Female,48,Masters,8,65.586338,1,1
+Female,26,Bachelors,13,52.98417,0,1
+Male,49,Masters,17,60.043522,0,0
+Male,31,PhD,14,77.716071,0,0
+Male,22,Masters,9,78.557588,0,0
+Female,48,Masters,6,43.919454,1,1
+Male,43,Bachelors,7,57.632023,1,0
+Female,39,Bachelors,2,53.987948,0,1
+Male,39,High School,14,62.886952,0,0
+Female,25,High School,15,62.690274,0,1
+Female,39,PhD,3,57.745471,1,1
+Male,22,Bachelors,5,81.649063,0,0
+Female,30,Masters,0,62.181924,0,1
+Female,45,Masters,3,55.03271,1,1
+Male,22,Masters,10,51.088711,1,0
+Female,31,PhD,11,60.571921,0,1
+Male,38,Bachelors,4,52.896719,0,0
+Female,49,High School,15,51.909401,0,1
+Male,44,Bachelors,12,62.782732,0,0
+Male,35,High School,12,64.915729,1,0
+Female,29,High School,16,44.367021,0,1
+Female,43,Bachelors,6,52.157277,1,1
+Female,39,Masters,7,72.693564,0,1
+Female,29,Bachelors,12,71.728829,0,1
+Female,23,Bachelors,15,75.146504,0,1
+Male,41,Bachelors,3,70.101465,0,0
+Female,29,Bachelors,7,60.836688,0,1
+Male,48,High School,15,81.606114,0,0
+Male,34,Masters,9,55.29339,0,0
+Female,39,Bachelors,11,66.631615,0,1
+Male,27,Masters,11,83.023447,0,0
+Male,36,High School,4,61.110397,0,0
+Male,36,Masters,15,83.826391,1,0
+Male,48,Bachelors,0,90.577161,0,0
+Female,21,Bachelors,8,67.641886,1,1
+Male,24,Bachelors,11,75.945044,0,0
+Female,24,Masters,4,44.883148,0,1
+Female,27,Bachelors,19,69.05739,1,1
+Male,28,Bachelors,2,59.744093,0,0
+Female,37,PhD,4,64.274047,0,1
+Female,25,Masters,1,66.100256,0,1
+Female,27,Bachelors,13,30.0,0,1
+Male,48,Masters,1,74.058034,1,0
+Female,40,Bachelors,12,86.739001,0,1
+Female,49,Bachelors,6,40.117348,0,1
+Female,40,Bachelors,9,60.341678,0,1
+Male,24,Masters,12,50.528846,0,0
+Female,48,Masters,15,51.348015,1,1
+Male,26,Bachelors,13,50.702231,1,0
+Male,27,Bachelors,10,71.595423,0,0
+Male,38,Bachelors,9,77.936048,0,0
+Male,25,PhD,5,74.097386,1,0
+Male,40,PhD,3,60.698175,0,0
+Male,49,Bachelors,0,63.906052,0,0
+Female,23,Masters,6,63.682485,1,1
+Male,27,Masters,8,61.01076,0,0
+Female,47,Bachelors,7,43.331456,0,1
+Female,48,High School,4,59.127327,1,1
+Male,42,Bachelors,18,60.552918,0,0
+Female,34,Bachelors,9,62.968511,0,1
+Female,27,Bachelors,10,72.524593,0,1
+Female,25,Bachelors,14,82.081562,0,1
+Female,49,Masters,5,64.708436,0,1
+Male,42,High School,14,76.459722,1,0
+Female,25,Bachelors,4,53.619693,0,1
+Male,43,Bachelors,18,64.626232,0,0
+Female,22,Bachelors,18,69.02374,0,1
+Female,47,Bachelors,9,54.043679,0,1
+Male,41,Bachelors,11,70.729474,0,0
+Female,42,High School,3,69.327324,0,1
+Female,26,Bachelors,17,57.766311,0,1
+Female,35,Bachelors,15,75.978879,0,1
+Male,41,High School,7,75.730293,1,0
+Female,30,Masters,3,62.542122,0,1
+Male,43,Bachelors,11,63.518109,0,0
+Female,46,Bachelors,1,61.515004,0,1
+Male,44,Masters,3,65.709541,1,0
+Male,27,High School,4,74.694089,1,0
+Female,25,High School,2,57.641172,0,1
+Female,21,Masters,8,68.23842,1,1
+Male,33,Bachelors,17,69.682288,0,0
+Male,41,Bachelors,10,90.378576,0,0
+Female,46,Masters,2,57.564656,0,1
+Male,38,Masters,1,64.654252,1,0
+Female,33,PhD,8,60.84418,0,1
+Female,41,Bachelors,13,71.656448,1,1
+Female,41,Bachelors,3,70.758909,0,1
+Female,38,Bachelors,8,61.115196,0,1
+Male,25,High School,12,73.390892,0,0
+Female,33,Bachelors,17,62.359718,1,1
+Male,24,Bachelors,14,59.221272,0,0
+Female,37,Masters,9,70.786276,0,1
+Male,23,Bachelors,15,57.421436,0,0
+Female,37,Bachelors,11,50.550992,1,1
+Male,48,Bachelors,19,70.550271,0,0
+Male,31,High School,4,66.801403,0,0
+Female,41,High School,1,66.297854,0,1
+Female,40,Bachelors,9,64.741743,1,1
+Female,43,High School,0,59.894585,1,1
+Female,41,Bachelors,6,49.818484,1,1
+Male,46,Masters,16,70.265601,0,0
+Female,24,Masters,15,58.588045,0,1
+Male,22,Bachelors,2,72.221867,1,0
+Male,40,Bachelors,13,65.69962,0,0
+Female,36,Masters,9,64.032639,0,1
+Male,48,Masters,6,66.53439,0,0
+Male,38,High School,16,74.291135,1,0
+Male,28,Masters,5,77.960476,0,0
+Male,23,Bachelors,3,64.654045,0,0
+Female,29,Masters,16,53.967474,1,1
+Female,49,PhD,8,64.744036,0,1
+Female,40,High School,3,47.982515,0,1
+Female,49,Masters,6,72.736398,1,1
+Male,26,Bachelors,1,70.109626,1,0
+Male,30,PhD,16,68.852416,1,0
+Female,41,Bachelors,7,61.520398,0,1
+Female,30,Masters,14,64.905422,0,1
+Female,33,High School,14,57.205934,1,1
+Male,37,Bachelors,7,78.786164,0,0
+Female,29,High School,15,53.748273,1,1
+Female,37,PhD,18,65.034549,1,1
+Female,44,Masters,10,46.652398,1,1
+Male,29,Masters,1,75.10649,1,0
+Male,29,Masters,16,66.721267,1,0
+Male,21,High School,15,56.889139,0,0
+Male,22,Bachelors,14,72.566428,1,0
+Male,48,High School,12,69.655735,0,0
+Male,36,Bachelors,14,54.572745,0,0
+Male,49,Bachelors,3,48.863345,0,0
+Male,21,Bachelors,15,68.477362,0,0
+Female,30,Bachelors,11,74.608427,1,1
+Female,38,High School,3,62.380693,0,1
+Male,46,High School,2,63.316968,0,0
+Male,48,High School,16,80.818695,0,0
+Female,28,PhD,17,68.601191,0,1
+Male,41,Masters,17,82.715791,1,0
+Male,48,PhD,16,76.838978,0,0
+Male,31,Bachelors,11,78.859023,1,0
+Female,43,Bachelors,3,67.217876,1,1
+Female,22,Masters,11,51.647776,0,1
+Female,28,Bachelors,19,40.643476,1,1
+Female,47,Bachelors,14,50.998485,1,1
+Female,42,Bachelors,15,72.303586,0,1
+Male,28,High School,4,66.189892,0,0
+Female,37,Bachelors,14,56.160205,0,1
+Male,35,Bachelors,16,58.342151,1,0
+Male,37,Bachelors,17,64.489104,0,0
+Female,48,High School,4,56.279066,1,1
+Female,43,Bachelors,12,65.838223,0,1
+Male,44,Masters,18,65.41339,0,0
+Male,33,High School,12,64.714626,0,0
+Male,39,Bachelors,17,78.421756,0,0
+Female,25,Masters,13,64.853688,0,1
+Female,32,High School,3,62.040001,0,1
+Female,21,High School,3,73.836367,0,1
+Female,43,Bachelors,19,51.898283,0,1
+Female,25,Bachelors,19,60.671174,1,1
+Male,28,Bachelors,18,75.511598,0,0
+Female,33,Masters,12,48.513323,0,1
+Male,28,High School,11,72.290497,0,0
+Male,45,Bachelors,6,70.221965,0,0
+Male,43,Bachelors,11,97.772994,0,0
+Female,31,High School,3,61.788931,0,1
+Female,21,Bachelors,1,72.587462,0,1
+Female,33,Bachelors,1,69.313837,0,1
+Male,39,Bachelors,4,58.434384,0,0
+Male,44,High School,9,54.511762,1,0
+Male,23,Bachelors,9,72.470146,0,0
+Male,44,Bachelors,8,82.573347,1,0
+Male,37,Masters,12,72.879148,0,0
+Male,25,High School,6,70.788518,0,0
+Female,40,Bachelors,4,54.271685,0,1
+Female,41,Bachelors,9,44.769204,0,1
+Female,28,Masters,9,49.2564,0,1
+Female,46,Bachelors,5,43.62388,0,1
+Male,34,Bachelors,18,58.969534,1,0
+Male,24,Masters,7,64.739918,0,0
+Female,31,Masters,0,64.496957,1,1
+Male,40,Bachelors,16,65.549327,0,0
+Female,35,Bachelors,6,62.201587,1,1
+Female,39,Masters,13,58.452695,0,1
+Female,27,PhD,16,64.355679,0,1
+Male,39,Masters,8,59.651851,0,0
+Female,48,Bachelors,16,70.330271,0,1
+Female,39,High School,4,45.152151,0,1
+Female,31,Bachelors,19,55.713601,0,1
+Male,46,Masters,7,69.790946,1,0
+Male,25,Bachelors,5,77.601448,1,0
+Female,25,Bachelors,10,71.307437,0,1
+Male,42,Masters,18,77.680315,1,0
+Male,28,Bachelors,3,84.159164,1,0
+Male,30,Masters,17,61.708241,1,0
+Male,26,Bachelors,0,81.903705,0,0
+Male,35,Bachelors,12,80.186567,0,0
+Male,36,Bachelors,13,46.037249,0,0
+Male,48,Masters,0,67.795358,1,0
+Male,37,High School,10,76.020374,0,0
+Male,28,High School,16,64.845861,0,0
+Male,28,PhD,3,59.141748,0,0
+Female,45,High School,11,80.12543,0,1
+Female,29,Bachelors,9,61.717125,0,1
+Male,22,Bachelors,5,71.384054,0,0
+Female,35,Bachelors,0,43.512611,1,1
+Female,38,Bachelors,6,53.573043,0,1
+Male,23,Bachelors,15,61.021594,0,0
+Male,37,Bachelors,13,80.789752,0,0
+Male,24,Bachelors,19,75.046336,1,0
+Female,24,Bachelors,19,53.033046,0,1
+Female,34,High School,5,62.16617,0,1
+Male,29,Bachelors,4,67.464799,0,0
+Male,29,High School,17,72.344907,0,0
+Male,45,Bachelors,14,72.297639,0,0
+Female,46,Bachelors,5,62.457244,0,1
+Female,43,High School,18,64.295131,0,1
+Female,38,Masters,0,60.571504,0,1
+Female,30,Bachelors,0,70.791835,0,1
+Male,41,Masters,12,76.405628,0,0
+Male,24,PhD,2,66.630982,1,0
+Male,32,Bachelors,9,69.020473,0,0
+Male,47,High School,2,82.301706,1,0
+Female,28,Bachelors,8,61.114791,0,1
+Female,22,Masters,7,57.424183,1,1
+Male,42,Bachelors,2,63.688617,0,0
+Male,33,High School,12,72.730381,1,0
+Female,41,Bachelors,5,48.687281,0,1
+Male,36,Masters,12,82.847954,0,0
+Female,48,Masters,19,47.90138,0,1
+Male,22,High School,19,84.780677,1,0
+Male,31,Bachelors,11,67.147697,1,0
+Male,30,Bachelors,12,59.232626,0,0
+Male,35,Bachelors,1,71.891757,1,0
+Male,37,Masters,15,60.469608,1,0
+Male,28,Bachelors,5,70.343718,1,0
+Male,38,Bachelors,18,64.224565,1,0
+Female,43,High School,12,68.249966,0,1
+Female,29,Masters,16,58.004141,0,1
+Female,45,Masters,8,45.383408,0,1
+Female,28,Bachelors,16,55.119585,0,1
+Female,47,Masters,1,67.17914,0,1
+Male,34,High School,18,82.870921,0,0
+Male,48,Bachelors,18,69.547252,0,0
+Female,46,Bachelors,6,50.0651,0,1
+Male,45,High School,9,80.540363,1,0
+Female,38,Bachelors,9,64.541959,0,1
+Female,42,Masters,19,74.864201,0,1
+Male,40,High School,8,72.902091,1,0
+Male,40,Bachelors,16,64.794031,1,0
+Male,41,Bachelors,14,75.168885,1,0
+Female,32,Bachelors,1,61.843954,0,1
+Male,39,Masters,3,64.251263,1,0
+Female,34,Bachelors,18,59.411634,0,1
+Female,37,Bachelors,16,54.789147,0,1
+Female,44,Masters,4,67.382888,0,1
+Male,41,High School,6,74.920069,0,0
+Male,23,Bachelors,17,59.484086,1,0
+Female,46,Bachelors,6,45.54823,0,1
+Male,43,Bachelors,16,69.101888,0,0
+Male,27,PhD,6,70.328193,1,0
+Male,37,Masters,3,77.609768,0,0
+Female,32,Bachelors,7,66.469249,0,1
+Female,29,Masters,12,71.508143,0,1
+Male,35,High School,3,65.328065,0,0
+Female,38,High School,5,55.992207,0,1
+Male,41,Bachelors,4,60.40186,0,0
+Male,33,Bachelors,11,77.494071,1,0
+Male,41,Bachelors,3,70.217522,0,0
+Male,28,Bachelors,8,51.463965,0,0
+Female,34,Masters,3,61.63793,0,1
+Female,28,Bachelors,18,59.875929,0,1
+Female,34,Bachelors,13,59.657026,0,1
+Male,27,High School,4,72.966549,1,0
+Male,43,High School,17,57.797643,0,0
+Male,32,Bachelors,9,86.410318,0,0
+Female,31,Bachelors,18,64.427086,0,1
+Male,42,Masters,11,52.263011,1,0
+Female,42,High School,17,57.607514,0,1
+Female,31,High School,16,61.746983,0,1
+Female,45,Bachelors,10,47.023793,0,1
+Female,42,Bachelors,2,63.172612,1,1
+Female,48,High School,16,75.55291,1,1
+Female,49,Masters,0,54.045515,1,1
+Male,33,High School,14,74.284387,0,0
+Male,38,Bachelors,8,72.085986,0,0
+Female,22,Bachelors,14,69.608724,0,1
+Female,49,High School,2,59.821995,0,1
+Male,41,Bachelors,18,59.332834,1,0
+Female,35,Masters,12,65.591119,0,1
+Female,40,Bachelors,11,48.427043,0,1
+Male,47,Masters,19,88.088614,0,0
+Female,38,High School,0,65.202585,0,1
+Female,35,Masters,16,53.239038,0,1
+Female,39,Bachelors,12,67.402816,0,1
+Male,43,Bachelors,0,69.90811,0,0
+Male,44,Bachelors,9,67.785944,0,0
+Male,32,Masters,14,63.191306,1,0
+Female,33,Bachelors,6,42.298102,0,1
+Female,42,High School,17,64.526547,0,1
+Male,31,High School,15,53.718732,0,0
+Female,25,Masters,13,51.031725,0,1
+Female,49,Bachelors,17,62.65972,0,1
+Female,21,Masters,6,56.884575,0,1
+Female,44,Bachelors,16,58.338775,0,1
+Female,23,Bachelors,17,44.270337,0,1
+Male,42,High School,11,66.515406,1,0
+Female,39,PhD,7,60.243058,0,1
+Male,43,Bachelors,1,60.485275,1,0
+Female,49,Masters,6,74.68373,0,1
+Male,27,Bachelors,3,63.625761,1,0
+Female,32,Bachelors,17,70.249172,1,1
+Male,35,Bachelors,5,68.321945,1,0
+Female,45,Bachelors,8,42.071813,0,1
+Male,25,Masters,8,58.630992,0,0
+Female,35,Masters,13,62.845559,0,1
+Male,28,Masters,7,80.327758,0,0
+Female,30,Masters,18,76.240041,0,1
+Male,46,Bachelors,2,71.282187,1,0
+Male,36,Bachelors,17,58.227563,1,0
+Female,28,PhD,4,61.144561,0,1
+Female,21,High School,13,51.203069,0,1
+Male,32,Masters,3,73.921916,0,0
+Female,25,Masters,6,48.166589,0,1
+Male,23,Bachelors,19,49.104298,0,0
+Male,21,PhD,11,83.168557,0,0
+Male,24,Bachelors,1,67.735833,1,0
+Female,28,Bachelors,10,56.890401,1,1
+Male,23,High School,13,79.967014,0,0
+Male,30,Bachelors,15,88.788467,1,0
+Female,22,Bachelors,19,63.647395,1,1
+Female,31,Bachelors,5,60.32498,0,1
+Female,45,Masters,3,65.9493,1,1
+Female,30,Masters,14,53.143122,0,1
+Male,41,High School,0,70.361144,1,0
+Male,34,Bachelors,6,71.448636,0,0
+Male,27,Masters,11,62.133747,0,0
+Male,47,High School,9,70.211736,1,0
+Female,47,High School,4,60.63763,0,1
+Male,22,High School,11,75.170169,1,0
+Male,29,Bachelors,17,74.373238,1,0
+Female,36,High School,9,47.861772,0,1
+Male,33,PhD,5,82.292589,1,0
+Male,29,Bachelors,11,81.462812,0,0
+Male,40,Bachelors,6,69.038516,0,0
+Male,24,Bachelors,17,74.555087,0,0
+Male,42,Bachelors,1,67.834462,0,0
+Male,30,Bachelors,9,77.519577,0,0
+Female,46,Masters,14,48.33223,0,1
+Female,46,Masters,11,70.205228,1,1
+Male,42,Bachelors,16,77.022076,1,0
+Male,32,Masters,3,77.254338,1,0
+Female,37,Masters,6,57.836443,1,1
+Male,34,Masters,8,55.873815,0,0
+Male,34,High School,18,78.839347,0,0
+Male,45,High School,6,56.204387,0,0
+Female,22,Bachelors,1,67.412074,0,1
+Male,41,Bachelors,5,62.278728,0,0
+Female,45,Bachelors,17,43.735497,1,1
+Male,40,Bachelors,5,70.009997,0,0
+Female,31,Masters,12,73.499436,0,1
+Female,36,Masters,18,50.332779,0,1
+Male,39,Masters,1,85.990346,0,0
+Female,43,Bachelors,11,63.750285,0,1
+Male,26,Bachelors,14,71.567595,1,0
+Female,44,Bachelors,13,57.615965,0,1
+Male,39,High School,5,66.341026,0,0
+Male,25,High School,17,74.301672,1,0
+Female,46,Bachelors,4,68.459414,0,1
+Male,24,Bachelors,17,64.065038,1,0
+Male,35,Masters,2,61.934867,0,0
+Female,49,High School,2,57.47272,0,1
+Male,24,Masters,9,83.936287,0,0
+Male,40,Bachelors,18,57.831117,0,0
+Female,30,Bachelors,2,70.200403,0,1
+Female,44,Bachelors,11,56.903665,0,1
+Male,42,Bachelors,15,53.472609,0,0
+Male,23,Bachelors,16,65.383676,0,0
+Female,46,Bachelors,6,66.018605,0,1
+Female,25,High School,12,77.93642,0,1
+Male,26,High School,1,56.726273,1,0
+Female,41,Bachelors,3,30.0,0,1
+Male,42,Masters,9,56.904472,1,0
+Male,28,Bachelors,6,81.304155,0,0
+Male,27,Masters,16,52.062583,0,0
+Male,41,Bachelors,19,84.972539,1,0
+Male,30,Masters,5,82.148089,1,0
+Female,26,Masters,18,61.197055,0,1
+Female,34,Bachelors,4,54.388718,0,1
+Female,24,Bachelors,9,59.837969,0,1
+Female,48,Masters,8,67.265731,0,1
+Male,45,Bachelors,12,74.584765,0,0
+Male,33,Bachelors,18,87.396594,1,0
+Male,40,High School,5,67.398976,1,0
+Male,37,Masters,3,56.99157,1,0
+Female,43,Masters,2,46.168871,0,1
+Male,27,High School,2,53.227087,0,0
+Male,24,Bachelors,3,71.962789,0,0
+Female,49,Bachelors,4,56.666106,0,1
+Female,34,High School,7,59.812993,0,1
+Female,23,PhD,15,51.140329,0,1
+Female,44,Bachelors,2,48.723968,0,1
+Male,25,High School,11,76.143359,0,0
+Male,36,Bachelors,7,45.369361,1,0
+Female,46,Masters,12,50.500514,0,1
+Male,43,High School,3,77.864902,1,0
+Male,40,Bachelors,13,60.991616,0,0
+Male,24,Bachelors,13,73.916754,0,0
+Female,44,High School,12,50.203823,0,1
+Male,44,High School,5,65.441551,0,0
+Female,22,Bachelors,16,67.670638,1,1
+Male,38,Bachelors,3,57.221517,0,0
+Male,39,Masters,7,77.452783,0,0
+Male,48,Masters,16,70.459205,1,0
+Female,48,PhD,2,70.583164,0,1
+Male,39,Bachelors,16,72.0815,1,0
+Female,37,PhD,8,50.236918,0,1
+Female,34,Bachelors,1,73.513522,0,1
+Female,39,Bachelors,12,51.248594,0,1
+Male,42,High School,19,67.728439,1,0
+Male,44,High School,1,79.574089,1,0
+Male,33,Bachelors,19,51.200722,0,0
+Male,32,Bachelors,10,84.39669,1,0
+Female,46,Bachelors,14,48.003412,1,1
+Female,26,Bachelors,10,56.937908,0,1
+Female,41,Bachelors,2,58.907334,1,1
+Male,24,Bachelors,2,69.582941,1,0
+Female,39,Bachelors,11,66.878591,0,1
+Male,36,Masters,4,53.991924,0,0
+Female,33,Masters,19,65.702203,0,1
+Male,24,Bachelors,6,78.072424,0,0
+Male,43,Bachelors,6,80.292258,0,0
+Female,37,Bachelors,12,45.700933,0,1
+Female,43,Masters,8,42.810885,0,1
+Female,21,Bachelors,12,57.31681,0,1
+Female,38,Bachelors,11,43.003416,0,1
+Male,40,High School,12,51.960321,0,0
+Female,37,Bachelors,9,56.914522,0,1
+Female,47,Bachelors,0,63.196787,0,1
+Female,48,Masters,7,89.770497,0,1
+Male,47,Bachelors,15,75.486752,1,0
+Male,35,Bachelors,12,87.5227,0,0
+Female,31,Masters,2,58.726087,0,1
+Male,45,Masters,2,75.59566,1,0
+Female,48,Bachelors,4,57.149576,1,1
+Male,42,Bachelors,10,96.831232,1,0
+Male,33,Bachelors,6,63.144091,1,0
+Male,21,Masters,9,64.500257,1,0
+Male,37,High School,9,77.965407,1,0
+Female,26,Masters,19,63.680477,0,1
+Female,24,Bachelors,1,53.105214,0,1
+Female,40,Bachelors,2,68.884038,0,1
+Male,36,High School,7,69.588528,1,0
+Female,35,Bachelors,10,58.371691,0,1
+Female,47,Bachelors,12,61.661247,0,1
+Female,35,High School,6,42.254215,0,1
+Male,26,Bachelors,12,54.06746,0,0
+Male,35,PhD,1,80.868956,0,0
+Male,34,Bachelors,5,63.230383,1,0
+Female,48,Masters,8,57.312645,0,1
+Female,31,High School,19,77.192945,1,1
+Female,27,Bachelors,1,60.029757,1,1
+Male,29,High School,17,67.899112,0,0
+Male,46,Bachelors,15,78.960776,0,0
+Female,36,Masters,11,50.846637,0,1
+Male,25,Bachelors,6,82.029292,1,0
+Male,45,High School,6,78.755579,0,0
+Male,40,Bachelors,16,88.303332,0,0
+Male,49,Bachelors,12,63.09657,1,0
+Female,30,Bachelors,10,69.993054,0,1
+Male,38,Masters,5,75.540921,1,0
+Male,23,Masters,13,56.746336,1,0
+Male,33,Bachelors,5,44.038236,0,0
+Male,31,Bachelors,5,62.019731,0,0
+Female,37,Bachelors,1,62.683622,1,1
+Female,42,High School,19,64.749011,0,1
+Male,33,Bachelors,14,69.409189,0,0
+Male,26,Bachelors,16,69.498706,0,0
+Male,37,Bachelors,7,68.740065,1,0
+Male,47,Bachelors,4,80.312171,0,0
+Male,33,High School,16,55.637103,1,0
+Male,39,Bachelors,19,72.682899,1,0
+Female,41,High School,0,49.90849,0,1
+Male,39,High School,17,60.934589,1,0
+Female,30,Masters,14,71.309901,0,1
+Female,23,High School,4,52.015051,0,1
+Male,34,Bachelors,6,68.604818,1,0
+Female,46,High School,17,80.648068,1,1
+Female,39,Masters,5,66.084936,0,1
+Female,25,Bachelors,4,53.496753,0,1
+Female,49,Bachelors,18,58.113693,1,1
+Female,25,Bachelors,9,48.396138,0,1
+Female,40,Masters,14,73.620004,0,1
+Male,37,PhD,9,80.113518,1,0
+Female,41,Bachelors,15,64.834666,0,1
+Female,30,Masters,11,69.850066,0,1
+Female,25,Masters,17,53.630102,1,1
+Male,24,Masters,0,54.520876,1,0
+Female,26,Bachelors,15,62.805908,0,1
+Male,46,Bachelors,5,78.885579,0,0
+Female,24,Bachelors,2,76.999199,0,1
+Male,27,Masters,1,67.991098,1,0
+Male,27,Bachelors,1,66.532487,0,0
+Female,38,Bachelors,12,55.690921,0,1
+Female,23,Bachelors,8,67.278342,0,1
+Male,21,Masters,15,67.179107,1,0
+Female,44,Masters,4,60.880961,1,1
+Male,45,High School,6,78.310529,1,0
+Male,24,Masters,12,63.741638,1,0
+Male,26,Bachelors,19,83.91154,0,0
+Male,29,Masters,12,76.33089,0,0
+Male,42,Bachelors,6,51.423794,0,0
+Female,34,Bachelors,9,55.387425,1,1
+Male,48,Masters,14,49.756565,0,0
+Male,32,Bachelors,5,68.033206,0,0
+Female,48,Masters,4,52.683287,0,1
+Male,45,Bachelors,1,78.348548,0,0
+Female,40,Bachelors,14,48.055638,0,1
+Female,44,Bachelors,15,60.896031,0,1
+Female,45,Bachelors,18,65.305375,1,1
+Male,24,Bachelors,8,72.571949,1,0
+Male,41,High School,18,81.401236,1,0
+Male,44,Bachelors,6,90.682889,0,0
+Female,32,High School,3,59.110909,0,1
+Male,30,PhD,2,74.051795,1,0
+Female,42,PhD,19,51.967325,1,1
+Male,48,Bachelors,10,59.804766,0,0
+Female,27,Masters,0,70.57941,0,1
+Male,23,Bachelors,5,79.015255,0,0
+Male,43,Bachelors,10,59.703801,0,0
+Male,48,Masters,0,56.917795,1,0
+Female,34,Masters,6,50.134617,0,1
+Female,44,Bachelors,5,60.508209,0,1
+Male,30,Masters,13,65.908736,0,0
+Male,36,Bachelors,1,71.605149,0,0
+Female,36,PhD,3,70.657574,1,1
+Female,42,High School,10,65.373726,0,1
+Female,30,Bachelors,14,67.202017,1,1
+Male,45,Bachelors,17,45.484636,1,0
+Female,33,Bachelors,0,44.772357,0,1
+Male,26,High School,2,62.035432,0,0
+Female,32,Masters,2,52.187814,0,1
+Male,29,High School,6,78.398278,0,0
+Female,33,Bachelors,0,50.682438,0,1
+Female,24,Bachelors,10,63.313246,1,1
+Female,44,Bachelors,5,49.244281,0,1
+Female,31,Bachelors,19,47.940253,0,1
+Female,40,Bachelors,2,48.898963,1,1
+Male,38,High School,18,92.582665,0,0
+Female,46,High School,1,51.648196,0,1
+Female,31,Bachelors,17,65.368102,1,1
+Female,45,Masters,11,44.809634,0,1
+Male,41,Masters,9,84.18929,0,0
+Female,24,High School,4,61.745518,1,1
+Male,38,Bachelors,8,72.739789,1,0
+Female,21,High School,1,63.681803,1,1
+Female,47,High School,1,63.927714,0,1
+Male,27,Bachelors,5,78.090673,1,0
+Female,26,Bachelors,9,53.392267,0,1
+Male,35,High School,17,63.424117,0,0
+Male,38,Bachelors,11,70.492239,0,0
+Female,44,High School,3,67.077483,0,1
+Male,31,Masters,16,69.333445,0,0
+Female,40,PhD,14,64.048298,1,1
+Female,44,High School,5,63.596733,0,1
+Male,35,Bachelors,15,67.830167,0,0
+Male,36,Masters,16,52.5282,1,0
+Male,27,Masters,2,64.964721,0,0
+Male,41,Bachelors,9,87.427972,0,0
+Female,30,High School,4,64.559917,1,1
+Female,46,High School,13,50.393691,0,1
+Male,32,Bachelors,12,72.506516,0,0
+Female,44,Bachelors,5,65.841853,0,1
+Female,34,High School,11,50.242031,1,1
+Female,45,Bachelors,7,69.554707,0,1
+Female,25,High School,4,64.405699,0,1
+Male,46,Masters,14,59.000912,1,0
+Male,41,Bachelors,15,78.563663,0,0
+Female,38,High School,0,57.76905,0,1
+Male,25,Bachelors,15,68.208696,0,0
+Male,23,Bachelors,4,59.840313,1,0
+Male,43,PhD,2,76.314464,1,0
+Female,46,Bachelors,19,58.899284,0,1
+Female,25,Bachelors,14,65.487764,0,1
+Female,44,Masters,12,52.689307,0,1
+Male,37,Bachelors,15,63.345967,0,0
+Female,39,Masters,10,52.988303,0,1
+Female,39,Bachelors,1,65.124185,0,1
+Male,45,Bachelors,5,63.196502,0,0
+Female,41,High School,5,54.959292,0,1
+Female,32,Bachelors,13,50.909317,0,1
+Male,45,Masters,10,74.400839,0,0
+Male,49,Masters,7,52.646976,0,0
+Male,29,Bachelors,7,72.470329,0,0
+Female,21,Bachelors,0,76.159291,1,1
+Female,38,Masters,6,73.330185,0,1
+Female,41,Masters,5,54.199625,0,1
+Male,24,High School,7,74.946018,0,0
+Male,30,Bachelors,18,73.005655,0,0
+Female,45,Bachelors,19,76.583577,0,1
+Female,27,Masters,7,31.413058,1,1
+Male,42,High School,13,81.128674,0,0
+Male,43,Bachelors,17,67.324823,1,0
+Male,21,Masters,15,62.567711,1,0
+Male,37,High School,8,62.28198,1,0
+Female,44,Bachelors,14,48.29443,0,1
+Male,49,Bachelors,9,63.858816,0,0
+Female,49,Bachelors,15,47.743561,1,1
+Female,22,Bachelors,3,62.15784,1,1
+Female,48,Bachelors,19,64.574308,0,1
+Male,46,High School,12,67.434266,0,0
+Male,31,Bachelors,4,84.997232,1,0
+Male,29,Masters,6,64.515787,0,0
+Male,27,Masters,8,66.911376,1,0
+Female,42,High School,7,53.362071,0,1
+Male,37,High School,15,75.986189,1,0
+Male,37,Bachelors,5,76.995735,0,0
+Female,22,Bachelors,15,61.975218,0,1
+Male,26,Bachelors,5,68.758913,0,0
+Female,34,Bachelors,13,47.355244,0,1
+Female,26,High School,0,58.739619,0,1
+Female,22,High School,8,75.960083,0,1
+Female,21,Bachelors,12,66.732267,0,1
+Female,30,Bachelors,18,59.697164,1,1
+Female,41,High School,16,54.571001,0,1
+Female,25,Bachelors,10,58.260714,0,1
+Female,22,Bachelors,7,54.209738,0,1
+Male,42,Masters,4,81.930517,0,0
+Male,36,Masters,9,61.61033,1,0
+Male,45,Bachelors,6,79.236693,1,0
+Male,22,Bachelors,9,64.707974,0,0
+Female,30,Bachelors,3,74.157041,0,1
+Male,22,Bachelors,8,74.267759,1,0
+Female,36,Bachelors,13,49.019654,1,1
+Male,36,Masters,1,66.906876,1,0
+Male,39,Bachelors,8,77.116406,1,0
+Male,49,Masters,0,65.008572,0,0
+Female,27,Bachelors,9,59.708742,0,1
+Male,42,High School,9,64.870558,0,0
+Female,32,Masters,19,77.29234,0,1
+Female,44,Bachelors,2,78.197213,0,1
+Male,35,Bachelors,5,84.63124,0,0
+Male,28,Bachelors,5,68.75626,0,0
+Male,26,High School,1,65.972474,0,0
+Female,48,PhD,17,53.926568,0,1
+Male,47,High School,1,85.357213,0,0
+Female,30,PhD,11,70.309537,0,1
+Female,23,PhD,4,67.359407,1,1
+Male,39,Masters,19,67.500721,1,0
+Male,37,Bachelors,6,52.421025,0,0
+Female,27,Bachelors,15,46.223632,0,1
+Female,41,Masters,19,58.957428,0,1
+Female,40,Bachelors,0,55.301163,1,1
+Male,46,Bachelors,0,63.622987,0,0
+Female,24,Bachelors,16,63.11571,0,1
+Male,34,Bachelors,0,80.136598,1,0
+Female,40,Bachelors,19,53.255567,0,1
+Female,42,Bachelors,12,46.809867,0,1
+Male,35,Bachelors,8,63.225288,0,0
+Female,44,Masters,14,47.246085,0,1
+Male,28,Bachelors,2,75.928326,0,0
+Male,41,Masters,13,69.958912,1,0
+Female,35,Bachelors,10,79.022162,0,1
+Male,42,Masters,11,77.346851,1,0
+Male,40,Bachelors,12,88.138561,0,0
+Female,48,Masters,12,44.562819,0,1
+Male,34,High School,0,37.471412,0,0
+Male,47,Masters,9,72.42992,0,0
+Male,49,High School,2,71.232202,0,0
+Female,29,Masters,3,57.915843,0,1
+Male,28,PhD,15,70.957967,1,0
+Female,46,Bachelors,7,46.777711,0,1
+Female,48,Bachelors,15,62.010809,0,1
+Male,46,Masters,16,77.361932,0,0
+Male,37,Bachelors,18,58.002513,0,0
+Male,22,Masters,14,66.463636,0,0
+Female,45,High School,15,54.685929,0,1
+Male,44,High School,14,63.291891,0,0
+Male,23,PhD,1,58.388876,0,0
+Male,28,Bachelors,10,70.12505,1,0
+Male,32,Masters,0,72.608055,0,0
+Male,21,Bachelors,14,63.898179,0,0
+Female,30,Bachelors,18,49.802472,1,1
+Female,40,Bachelors,3,65.918474,0,1
+Male,23,Bachelors,10,62.326795,1,0
+Male,26,Bachelors,4,66.907945,0,0
+Male,27,Bachelors,2,65.639234,1,0
+Male,40,Bachelors,12,82.457087,0,0
+Female,43,Bachelors,9,53.212111,0,1
+Male,45,Masters,10,87.255266,1,0
+Female,47,Bachelors,17,65.952552,0,1
+Female,38,Bachelors,1,79.900432,0,1
+Male,31,Bachelors,6,76.646388,1,0
+Female,39,Bachelors,8,56.811358,1,1
+Female,25,Masters,9,49.24528,1,1
+Female,39,Bachelors,17,56.440423,0,1
+Female,31,High School,6,72.247337,0,1
+Male,44,High School,6,69.520612,1,0
+Male,32,Bachelors,2,76.609194,1,0
+Female,30,Masters,11,63.430124,0,1
+Male,28,High School,6,72.496612,1,0
+Male,44,Masters,16,72.881597,1,0
+Male,48,Bachelors,0,74.953415,1,0
+Male,48,Bachelors,4,61.858925,0,0
+Male,29,Masters,15,67.250957,0,0
+Female,24,Bachelors,14,64.642307,1,1
+Male,25,Bachelors,1,71.634872,0,0
+Male,41,High School,8,65.387954,0,0
+Male,28,High School,6,74.166009,0,0
