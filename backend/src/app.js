@@ -22,14 +22,17 @@ const analysisRoutes = require("./routes/analysisRoutes");
 const app = express();
 
 // ── CORS ──────────────────────────────────────────────────────────────────── //
+// In development: allow all origins (frontend served from same server or any port).
+// In production: restrict to ALLOWED_ORIGINS list from .env.
 app.use(
   cors({
-    origin: (origin, cb) => {
-      // Allow requests with no origin (e.g. mobile apps, curl, Postman)
-      if (!origin || ALLOWED_ORIGINS.includes(origin)) return cb(null, true);
-      cb(new Error(`CORS: origin '${origin}' not allowed`));
-    },
-    methods: ["GET", "POST", "OPTIONS"],
+    origin: NODE_ENV === "production"
+      ? (origin, cb) => {
+          if (!origin || ALLOWED_ORIGINS.includes(origin)) return cb(null, true);
+          cb(new Error(`CORS: origin '${origin}' not allowed`));
+        }
+      : true,   // allow everything in development
+    methods:      ["GET", "POST", "OPTIONS"],
     allowedHeaders: ["Content-Type", "Authorization"],
   })
 );
@@ -41,8 +44,15 @@ app.use(express.urlencoded({ extended: true, limit: "50mb" }));
 // ── HTTP logging ──────────────────────────────────────────────────────────── //
 app.use(morgan(NODE_ENV === "production" ? "combined" : "dev"));
 
-// ── Health check ──────────────────────────────────────────────────────────── //
-app.get("/", (req, res) =>
+const path          = require("path");
+
+// ── Static frontend ───────────────────────────────────────────────────────── //
+// Serves e:\GDG\frontend at http://localhost:5000/
+const frontendPath = path.resolve(__dirname, "..", "..", "frontend");
+app.use(express.static(frontendPath));
+
+// ── Health check (JSON, not HTML) ─────────────────────────────────────────── //
+app.get("/health", (req, res) =>
   res.json({ service: "Nyaya AI Backend", status: "ok" })
 );
 

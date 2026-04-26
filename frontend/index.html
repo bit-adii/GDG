@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Nyaya AI — Hiring Fairness Dashboard</title>
+  <meta name="description" content="Nyaya AI: Bias detection and fairness evaluation system for AI-based hiring decisions." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- ░░  HEADER  ░░ -->
+  <header class="header">
+    <div class="header-inner">
+      <div class="logo">
+        <span class="logo-icon">⚖️</span>
+        <div>
+          <span class="logo-name">Nyaya<span class="accent"> AI</span></span>
+          <span class="logo-tag">Hiring Fairness Evaluator</span>
+        </div>
+      </div>
+      <div class="status-bar">
+        <div class="status-dot" id="nodeStatus" title="Node.js Backend"></div>
+        <span class="status-label">Backend</span>
+        <div class="status-dot" id="pyStatus" title="Python ML Service"></div>
+        <span class="status-label">ML Engine</span>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+
+    <!-- ░░  HERO  ░░ -->
+    <section class="hero">
+      <h1 class="hero-title">Detect &amp; Fix Hiring Bias <span class="accent">with AI</span></h1>
+      <p class="hero-sub">Select a dataset, choose a mitigation strategy, and run the full
+        machine-learning fairness pipeline — see results before &amp; after in seconds.</p>
+    </section>
+
+    <!-- ░░  CONTROLS  ░░ -->
+    <section class="card controls-card">
+      <h2 class="card-title">🎛️ Pipeline Configuration</h2>
+      <div class="controls-grid">
+
+        <div class="control-group">
+          <label class="control-label" for="datasetSelect">Dataset</label>
+          <div class="select-wrapper">
+            <select id="datasetSelect" class="select">
+              <option value="biased">Biased Hiring Dataset (High Bias)</option>
+              <option value="fair">Fair Hiring Dataset (Low Bias)</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="control-group">
+          <label class="control-label" for="mitigationSelect">Mitigation Technique</label>
+          <div class="select-wrapper">
+            <select id="mitigationSelect" class="select">
+              <option value="reweighting">Sample Reweighting (Kamiran &amp; Calders)</option>
+              <option value="smote">SMOTE Oversampling</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="control-group control-action">
+          <label class="control-label">&nbsp;</label>
+          <button id="runBtn" class="btn btn-primary" onclick="runPipeline()">
+            <span class="btn-icon">▶</span>
+            Run Pipeline
+          </button>
+        </div>
+
+      </div>
+
+      <!-- Upload own CSV -->
+      <div class="upload-section">
+        <p class="upload-label">— or upload your own CSV —</p>
+        <label class="upload-zone" id="uploadZone">
+          <input type="file" id="csvFile" accept=".csv" hidden onchange="uploadCSV()" />
+          <span class="upload-icon">📂</span>
+          <span class="upload-text">Click to select CSV file</span>
+          <span class="upload-hint">gender, age, education_level, experience_years, screening_score, shortlisted</span>
+        </label>
+      </div>
+    </section>
+
+    <!-- ░░  LOADING  ░░ -->
+    <div id="loadingPanel" class="loading-panel hidden">
+      <div class="spinner"></div>
+      <p class="loading-text">Running ML pipeline — training model, computing fairness metrics…</p>
+    </div>
+
+    <!-- ░░  ERROR TOAST  ░░ -->
+    <div id="errorToast" class="toast toast-error hidden">
+      <span id="errorMsg"></span>
+      <button onclick="closeToast()" class="toast-close">✕</button>
+    </div>
+
+    <!-- ░░  RESULTS  ░░ -->
+    <div id="results" class="hidden">
+
+      <!-- Score cards row -->
+      <section class="scores-row" id="scoresRow"></section>
+
+      <!-- Before / After comparison -->
+      <section class="comparison-grid" id="comparisonGrid"></section>
+
+      <!-- Selection rate bars -->
+      <section class="card" id="selectionRateCard"></section>
+
+      <!-- Insights -->
+      <section class="card" id="insightsCard"></section>
+
+      <!-- Recommendations -->
+      <section class="card" id="recommendationsCard"></section>
+
+    </div>
+
+  </main>
+
+  <footer class="footer">
+    <p>Nyaya AI &copy; 2026 · Built for GDG Hackathon · Powered by scikit-learn + Node.js</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

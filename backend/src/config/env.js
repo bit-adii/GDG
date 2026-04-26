@@ -12,6 +12,6 @@ module.exports = {
   NODE_ENV:           process.env.NODE_ENV           || "development",
   PYTHON_SERVICE_URL: process.env.PYTHON_SERVICE_URL || "http://localhost:5001",
   MAX_FILE_SIZE_MB:   parseInt(process.env.MAX_FILE_SIZE_MB || "10", 10),
-  ALLOWED_ORIGINS:    (process.env.ALLOWED_ORIGINS   || "http://localhost:3000")
+  ALLOWED_ORIGINS:    (process.env.ALLOWED_ORIGINS   || "http://localhost:3000,http://localhost:5173,http://localhost:5000")
                         .split(",").map((o) => o.trim()),
 };
